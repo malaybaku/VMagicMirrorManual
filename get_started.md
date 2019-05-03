@@ -75,7 +75,7 @@ VRMをロードしたら、各機能を試してみましょう。
 
 `顔・表情`メニューはその名の通り、顔の動きに関連する主要な機能です。
 
-![Face Streaming](./images/get_started/img00_100_face_streaming.png)
+![Face Streaming](./images/get_started/img00_100_streaming_face.png)
 
 #### リップシンク
 
@@ -107,7 +107,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 ![Keyboard Visible](./images/get_started/img00_110_view_keyboard_visible.png)
 
-![Keyboard Hidden](./images/get_started/img00_110_view_keyboard_hidden.png)
+![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)
 
 ### カメラ
 
