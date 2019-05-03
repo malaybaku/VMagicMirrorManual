@@ -10,11 +10,11 @@
 * `Windowed`にチェックが入ってること
 * `Screen Resolution`にモニターサイズよりも十分小さい解像度が指定されている事
 
-![Start Configuration](./images/get_started/img00_010_startup_configuration.png)
+![Start Configuration](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"}
 
 起動すると、GUIがある「コントロールパネル」と、キャラクターが映る「キャラクター表示ウィンドウ」が立ち上がります。
 
-![Start Image](./images/get_started/img00_015_started.png)
+![Start Image](./images/get_started/img00_015_started.png){: data-lightbox="img00_015"}
 
 コントロールパネルかキャラクター表示ウィンドウの一方を閉じると、もう片方の画面も閉じてVMagicMirrorが終了します。
 
@@ -25,19 +25,19 @@
 
 コントロールパネルの`ホーム`タブ内にある`VRMロード`ボタンを押し、PC上の`.vrm`ファイルを選択します。
 
-![Load VRM](./images/get_started/img00_020_load_vrm.png)
+![Load VRM](./images/get_started/img00_020_load_vrm.png){: data-lightbox="img00_020"}
 
 キャラクターを選択すると、キャラクター表示ウィンドウに規約が表示されます。
 
-![Load Confirmation](./images/get_started/img00_030_load_vrm_confirmation.png)
+![Load Confirmation](./images/get_started/img00_030_load_vrm_confirmation.png){: data-lightbox="img00_030"}
 
 確認して問題なければ`OK`をクリックすると、キャラクターが表示され、マウスやキーボードの操作に応じて動きます。
 
 同じキャラクターを次回以降も使いたい場合、`VRMロード`ボタンの下にある、`次回の起動時にも同じVRMを読み込む`のチェックをオンにします。
 
-![Load Confirmation](./images/get_started/img00_040_after_loaded.png)
+![Load Confirmation](./images/get_started/img00_040_after_loaded.png){: data-lightbox="img00_040"}
 
-**Hint:** キャラクターによってはキーボードやマウスの位置がキャラクターの体型からずれていますよね？もしそうであれば、順に[2: 詳細設定](./about_settings.html)
+**Hint:** キーボードやマウスの位置がキャラクターの体型からずれていますか？もしそうであれば、順に読み進めて[2: 詳細設定](./about_settings.html)のなかで調整できます。
 
 ## 配信タブ
 
@@ -45,27 +45,27 @@
 
 VRMをロードしたら、各機能を試してみましょう。
 
-![Streaming Tab](./images/get_started/img00_050_streaming_tab.png)
+![Streaming Tab](./images/get_started/img00_050_streaming_tab.png){: data-lightbox="img00_050"}
 
 ### ウィンドウ
 
 `ウィンドウ`で、`背景を透過`のチェックをオンにすることで、キャラクター表示ウィンドウの背景を透明にできます。VMagicMirrorは通常、この状態で使用します。
 
-![Transparent Background](./images/get_started/img00_060_transparent_bg.png)
+![Transparent Background](./images/get_started/img00_060_transparent_bg.png){: data-lightbox="img00_060"}
 
 背景を透明にしたとき、`(透過中)キャラ付近を掴んでドラッグ`のチェックがオンになっていれば、キャラクター付近を左クリック+ドラッグしてキャラクターを移動できます。
 
-![Transparent Background](./images/get_started/img00_070_transparent_bg_drag.png)
+![Transparent Background](./images/get_started/img00_070_transparent_bg_drag.png){: data-lightbox="img00_070"}
 
 ただし、`(透過中)キャラ付近を掴んでドラッグ`がオンのままだとキャラクターを誤って移動させたり、キャラクター背後のアプリケーションにアクセスできなくなったりします。
 
-![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)
+![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png){: data-lightbox="img00_080"}
 
 これを防ぐには、キャラクターを移動させたあとで`(透過中)キャラ付近を掴んでドラッグ`のチェックをオフにします。
 
 すると、キャラクター表示ウィンドウがクリックに反応しなくなり、背後のウィンドウにもアクセスできます。
 
-![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)
+![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png){: data-lightbox="img00_090"}
 
 
 **Hint:** VMagicMirrorでは、起動時にいつも同じ場所へキャラクターを配置することもできます。([Tips 1: 表示位置を固定する](./tips_fix_position.html))
@@ -75,7 +75,7 @@ VRMをロードしたら、各機能を試してみましょう。
 
 `顔・表情`メニューはその名の通り、顔の動きに関連する主要な機能です。
 
-![Face Streaming](./images/get_started/img00_100_streaming_face.png)
+![Face Streaming](./images/get_started/img00_100_streaming_face.png){: data-lightbox="img00_100"}
 
 #### リップシンク
 
@@ -105,9 +105,9 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 `表示`から`キーボード・マウスパッド`や`ゲームパッド`のチェックのオン・オフを切り替えることで、これらの要素を表示するか隠すかを選択できます。
 
-![Keyboard Visible](./images/get_started/img00_110_view_keyboard_visible.png)
+![Keyboard Visible](./images/get_started/img00_110_view_keyboard_visible.png){: data-lightbox="img00_110"}
 
-![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)
+![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
 
 ### カメラ
 
@@ -123,7 +123,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 * 中クリック + ドラッグ : カメラを上下左右に平行移動
 * 中ホイール : カメラを前後に移動
 
-![Free Camera Mode](./images/get_started/img00_130_free_camera_mode.png)
+![Free Camera Mode](./images/get_started/img00_130_free_camera_mode.png){: data-lightbox="img00_130"}
 
 キャラクターを見失った場合や、始めからやり直したい場合は、`位置をリセット`ボタンで初期状態に戻せます。
 
@@ -131,7 +131,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 また、`フリーカメラモード`も有効なままにすると誤ってカメラを動かしてしまう場合があるため、`フリーカメラモード`のチェックもオフにしておきます。
 
-![After Free Camera Mode](./images/get_started/img00_140_after_free_camera_mode.png)
+![After Free Camera Mode](./images/get_started/img00_140_after_free_camera_mode.png){: data-lightbox="img00_140"}
 
 **Hint:** 操作に慣れてきたら、`背景を透過`をオンにしたままでも`フリーカメラモード`を使えます。
 
@@ -146,7 +146,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 `プレゼン風に右手を動かす`のチェックをオンにしてマウスを動かすと、キャラクターが右手でマウスポインタの方向を指し示します。
 
-![After Free Camera Mode](./images/get_started/img00_150_presentation_mode.png)
+![After Free Camera Mode](./images/get_started/img00_150_presentation_mode.png){: data-lightbox="img00_150"}
 
 このスタイルは解説動画やプレゼンテーションでVMagicMirrorを使うときに有効です。
 
