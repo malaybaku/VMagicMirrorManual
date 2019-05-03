@@ -10,7 +10,10 @@
 * `Windowed`にチェックが入ってること
 * `Screen Resolution`にモニターサイズよりも十分小さい解像度が指定されている事
 
-![Start Configuration](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"}
+[Start Configuration](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"}
+
+[![Start Configuration](./images/get_started/img00_010_startup_configuration.png)](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"})
+
 
 起動すると、GUIがある「コントロールパネル」と、キャラクターが映る「キャラクター表示ウィンドウ」が立ち上がります。
 
