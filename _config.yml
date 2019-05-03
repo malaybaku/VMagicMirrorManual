@@ -1,1 +1,8 @@
 theme: jekyll-theme-leap-day
+title: VMagicMirror
+description: VRM Software with your Keyboard and Mouse.
+
+#show_downloads: "false"
+
+github:
+  zip_url: https://baku-dreameater.booth.pm/items/1272298
