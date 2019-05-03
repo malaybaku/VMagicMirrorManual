@@ -59,13 +59,13 @@ VRMをロードしたら、各機能を試してみましょう。
 
 ただし、`(透過中)キャラ付近を掴んでドラッグ`がオンのままだとキャラクターを誤って移動させたり、キャラクター背後のアプリケーションにアクセスできなくなったりします。
 
-![Transparent BG cannot click](./images/get_started/img00_080_transparent_cannot_click.png)
+![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)
 
 これを防ぐには、キャラクターを移動させたあとで`(透過中)キャラ付近を掴んでドラッグ`のチェックをオフにします。
 
 すると、キャラクター表示ウィンドウがクリックに反応しなくなり、背後のウィンドウにもアクセスできます。
 
-![Transparent BG can click](./images/get_started/img00_090_transparent_can_click.png)
+![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)
 
 
 **Hint:** VMagicMirrorでは、起動時にいつも同じ場所へキャラクターを配置することもできます。([Tips 1: 表示位置を固定する](./tips_fix_position.html))
