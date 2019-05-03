@@ -58,11 +58,13 @@ VRMをロードしたら、各機能を試してみましょう。
 
 [![Transparent Background](./images/get_started/img00_070_transparent_bg_drag.png)](./images/get_started/img00_070_transparent_bg_drag.png){: data-lightbox="img00_070"}
 
-ただし、`(透過中)キャラ付近を掴んでドラッグ`がオンのままだとキャラクターを誤って移動させたり、キャラクター背後のアプリケーションにアクセスできなくなったりします。
+ただし、`(透過中)キャラ付近を掴んでドラッグ`がオンのままだとキャラクターを誤って移動してしまったり、キャラクター背後のアプリケーションにアクセスできなくなったりします。
+
+これは透明なキャラクター表示ウィンドウの当たり判定が、一見すると何もないエリアに存在するためです。
 
 [![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)](./images/get_started/img00_080_transparent_bg_cannot_click.png){: data-lightbox="img00_080"}
 
-これを防ぐには、キャラクターを移動させたあとで`(透過中)キャラ付近を掴んでドラッグ`のチェックをオフにします。
+この問題を防ぐためには、キャラクターを移動させたあとで`(透過中)キャラ付近を掴んでドラッグ`のチェックをオフにします。
 
 すると、キャラクター表示ウィンドウがクリックに反応しなくなり、背後のウィンドウにもアクセスできます。
 
