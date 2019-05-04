@@ -9,6 +9,10 @@
 
 * `Windowed`にチェックが入ってること
 * `Screen Resolution`にモニターサイズよりも十分小さい解像度が指定されている事
+* `Graphics Quality`が`High`以上になっている事
+
+※v0.8.0時点では、`Graphics Quality`が`Medium`以下だとかえってCPU負荷が上がる場合があります。
+
 
 [![Start Configuration](./images/get_started/img00_010_startup_configuration.png)](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"})
 

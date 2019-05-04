@@ -8,19 +8,21 @@ VMagicMirror v0.8.0
 
 WindowsでVRMを表示し、特別なデバイスを使わずキャラクターを動かせるアプリケーションです。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhGOnf8HOKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1.1. できること
 
 キーボードやマウスの入力動作をVRMのモーションとして再現できます。
 
 背景を透過して配置することで、他アプリケーションと重ねて動かせます。
 
-また、周辺機器があれば次の機能も利用できます。
+また、周辺機器向けの機能もサポートしています。
 
-* ゲームパッド(ゲームコントローラ入力をVRMのモーションに反映
+* ゲームパッド(ゲームコントローラ)入力をVRMのモーションに反映
 * 音声入力によるリップシンク
 * カメラでの表情トラッキング
 
-以下のケースでの活用を想定して作成しています。
+以下のユースケース向けに作成しています。
 
 * PCゲームの実況配信
 * 文字書きがメインの作業配信
