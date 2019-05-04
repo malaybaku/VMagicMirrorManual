@@ -1,6 +1,8 @@
 
 # 2: 基本的な使い方
 
+[English](./en_get_started.html)
+
 ## 2.1. VMagicMirrorの開始と終了
 
 `VMagicMirror.exe`を起動します。

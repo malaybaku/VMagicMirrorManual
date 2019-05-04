@@ -1,6 +1,8 @@
 
 # License
 
+[English](./en_about_license.html)
+
 VMagicMirror(以下、「本ソフト」)に関し、本ページ下部の`License Note`が正式なライセンス文です。
 
 上部の`Licenseの補足`はとくにVRMの仕様で策定される利用規約や、本ソフトの想定用途に関する、正式ではない補足です。

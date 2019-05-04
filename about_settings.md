@@ -1,6 +1,8 @@
 
 # 3. 詳細設定
 
+[English](./en_about_settings.html)
+
 コントロールパネルの`ホーム`タブで、`設定ウィンドウを開く`ボタンを押すと設定ウィンドウが開けます。
 
 [![Setting Window](./images/about_settings/img01_010_setting_window.png)](./images/about_settings/img01_010_setting_window.png){: data-lightbox="img01_010"}

@@ -1,6 +1,8 @@
 
 # Tips A: デスクトップマスコット化のための設定
 
+[English](./en_tips_desktop_mascot.html)
+
 VMagicMirrorはデスクトップマスコット化としても使えます。
 
 本セットアップによって、Windowsの起動後に、所定の位置へキャラクターを表示できます。

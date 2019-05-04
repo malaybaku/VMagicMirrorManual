@@ -1,6 +1,8 @@
 
 # 1. VMagicMirrorについて
 
+[English](./en_index.html)
+
 VMagicMirror v0.8.0
 
 * 作者: 獏星(ばくすたー)
