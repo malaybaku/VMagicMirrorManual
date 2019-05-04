@@ -11,12 +11,12 @@ VMagicMirrorはデスクトップマスコット化としても使えます。
 * [3: 詳細設定](./tips_fix_position.html)のうち"3.1. ウィンドウ"に記載された手順にしたがって、キャラクターの表示位置を固定します。
 * コントロールパネルの`ホーム`タブで、`次回の起動時にも同じVRMを読み込む`のチェックがオンになっている事を確認します。
 
-以上の設定を行い、いったんVMagicMirrorを終了して再度起動します。
+以上ののち、いったんVMagicMirrorを終了して再び起動します。
 
-再起動前と同じ位置に、同じキャラクターが表示されれば成功です。
+終了前と同じ位置にキャラクターが表示されれば成功です。
 
 
-## Tips A.2. Windowsの起動時にVMagicMirrorをスタートさせる
+## Tips A.2. Windows起動時にVMagicMirrorをスタート
 
 Windowsを起動した直後に自動でVMagicMirrorをスタートするには以下のようにします。
 
@@ -41,3 +41,4 @@ Windowsを起動した直後に自動でVMagicMirrorをスタートするには�
 * [4: トラブルシューティング](./troubleshooting.html)
 * Tips A: デスクトップマスコット化のための設定 (このページ)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+* [License](./license.html)

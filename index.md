@@ -16,7 +16,7 @@ WindowsでVRMを表示し、特別なデバイスを使わずキャラクター�
 
 また、周辺機器があれば次の機能も利用できます。
 
-* ゲームコントローラ入力をVRMのモーションに反映
+* ゲームパッド(ゲームコントローラ入力をVRMのモーションに反映
 * 音声入力によるリップシンク
 * カメラでの表情トラッキング
 
@@ -30,7 +30,7 @@ WindowsでVRMを表示し、特別なデバイスを使わずキャラクター�
 
 ## 1.2. ダウンロード
 
-[Booth](https://booth.pm/ja/items/1272298)から取得可能です。
+[Booth](https://booth.pm/ja/items/1272298)からダウンロード可能です。
 
 Windows 10環境をサポートしています。
 
@@ -38,20 +38,18 @@ Windows 10環境をサポートしています。
 
 ## 1.3. ライセンス
 
-VMagicMirrorは個人・商用利用を問わず、任意の用途でご利用いただけます。
-
-ただし、これによってアバターの利用規約を緩和するものではありません。
+VMagicMirrorは個人・商用利用を問わずお使いいただけます。
 
 詳しくは[License](./license.html)を参照下さい。
 
 ## 1.4. 使い方
 
-* [2: とりあえず動かしてみる](./get_started.html)
+* [2: 基本的な使い方](./get_started.html)
 * [3: 詳細設定](./about_settings.html)
 * [4: トラブルシューティング](./troubleshooting.html)
-* [Tips A: 表示位置を固定する](./tips_fix_position.html)
-* [Tips B: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
-* [Tips C: プレゼンでVMagicMirrorを使う](./tips_presentation.html)
+* [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
+* [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+* [License](./license.html)
 
 ## 1.5. 質問など
 
@@ -60,7 +58,7 @@ VMagicMirrorは個人・商用利用を問わず、任意の用途でご利用�
 * [Twitter](https://twitter.com/baku_dreameater)
 * [Blog](https://www.baku-dreameater.net/)
 
-`Twitter`に関しては直接のお問い合わせのほか、ハッシュタグ`#VMagicMirror`でツイートした場合も確認します。
+Twitterに関してはお問い合わせ、感想、利用報告などについて、ハッシュタグ`#VMagicMirror`でツイート頂ければ確認します。
 
 ## Sections
 
