@@ -169,7 +169,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 * キーボードの位置がキャラクターに比べて高すぎ・低すぎ
 * キャラクターが明るすぎる・暗すぎる
 
-[3: 詳細設定](./about_settings.html)ではこうした問題を解決します。
+[3: 詳細設定](./about_settings.html)ではこれらの問題を解決できます。
 
 個々のキャラクターにあわせてしっかりと調整したい方はこちらもお読みください。
 
@@ -181,4 +181,4 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
-* [License](./license.html)
+* [License](./about_license.html)

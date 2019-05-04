@@ -140,4 +140,4 @@
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
-* [License](./license.html)
+* [License](./about_license.html)

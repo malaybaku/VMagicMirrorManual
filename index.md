@@ -42,7 +42,7 @@ Windows 10環境をサポートしています。
 
 VMagicMirrorは個人・商用利用を問わずお使いいただけます。
 
-詳しくは[License](./license.html)を参照下さい。
+詳しくは[License](./about_license.html)を参照下さい。
 
 ## 1.4. 使い方
 
@@ -51,7 +51,6 @@ VMagicMirrorは個人・商用利用を問わずお使いいただけます。
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
-* [License](./license.html)
 
 ## 1.5. 質問など
 
@@ -70,4 +69,4 @@ Twitterに関してはお問い合わせ、感想、利用報告などについ�
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
-* [License](./license.html)
+* [License](./about_license.html)

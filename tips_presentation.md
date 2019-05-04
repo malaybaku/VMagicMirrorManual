@@ -73,4 +73,4 @@ Microsoft PowerPointの場合、スライド上で右クリックして`ポイ�
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * Tips B: プレゼンテーションでVMagicMirrorを使う (このページ)
-* [License](./license.html)
+* [License](./about_license.html)

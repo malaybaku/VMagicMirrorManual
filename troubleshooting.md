@@ -45,4 +45,4 @@ VMagicMirrorの起動時に、品質設定を`High`にして起動します。
 * 4: トラブルシューティング (このページ)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
-* [License](./license.html)
+* [License](./about_license.html)

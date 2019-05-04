@@ -41,4 +41,4 @@ Windowsを起動した直後に自動でVMagicMirrorをスタートするには�
 * [4: トラブルシューティング](./troubleshooting.html)
 * Tips A: デスクトップマスコット化のための設定 (このページ)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
-* [License](./license.html)
+* [License](./about_license.html)
