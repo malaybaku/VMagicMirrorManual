@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header h1 a {
+  color:#000;
+}
+
 code {
   color:#000;
   text-shadow: 0px 0px 0px #000;
