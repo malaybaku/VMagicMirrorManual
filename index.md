@@ -32,7 +32,7 @@ WindowsでVRMを表示し、特別なデバイスを使わずキャラクター�
 
 ## 1.2. ダウンロード
 
-[Booth](https://booth.pm/ja/items/1272298)からダウンロード可能です。
+[BOOTH](https://booth.pm/ja/items/1272298)からダウンロード可能です。
 
 Windows 10環境をサポートしています。
 
