@@ -69,7 +69,7 @@ Microsoft PowerPointの場合、スライド上で右クリックして`ポイ�
 
 * [1: VMagicMirrorについて](./index.html)
 * [2: 基本的な使い方](./get_started.html)
-* [3: 詳細設定](./about_setttings.html)
+* [3: 詳細設定](./about_settings.html)
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * Tips B: プレゼンテーションでVMagicMirrorを使う (このページ)

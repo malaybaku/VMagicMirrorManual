@@ -8,7 +8,7 @@ VMagicMirrorはデスクトップマスコット化としても使えます。
 ## Tips A.1. VMagicMirrorのセットアップ
 
 * [2: 基本的な使い方](./get_started.html)の手順にしたがってVRMを読み込み、背景の透明化などのセットアップをします。
-* [3: 詳細設定](./tips_fix_position.html)のうち"3.1. ウィンドウ"に記載された手順にしたがって、キャラクターの表示位置を固定します。
+* [3: 詳細設定](./about_settings.html)のうち"3.1. ウィンドウ"に記載された手順にしたがって、キャラクターの表示位置を固定します。
 * コントロールパネルの`ホーム`タブで、`次回の起動時にも同じVRMを読み込む`のチェックがオンになっている事を確認します。
 
 以上ののち、いったんVMagicMirrorを終了して再び起動します。
@@ -37,7 +37,7 @@ Windowsを起動した直後に自動でVMagicMirrorをスタートするには�
 
 * [1: VMagicMirrorについて](./index.html)
 * [2: 基本的な使い方](./get_started.html)
-* [3: 詳細設定](./about_setttings.html)
+* [3: 詳細設定](./about_settings.html)
 * [4: トラブルシューティング](./troubleshooting.html)
 * Tips A: デスクトップマスコット化のための設定 (このページ)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
