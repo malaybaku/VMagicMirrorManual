@@ -1,6 +1,7 @@
 
-# Tips 3: プレゼンテーションでVMagicMirrorを使う
+# Tips B: プレゼンテーションでVMagicMirrorを使う
 
+コントロールパネルの
 設定ウィンドウの`配信`タブで、最下部にある`プレゼン風に右手を動かす`のチェックをオンにすることで、プレゼンテーション風にキャラクターの右手を動かせます。
 
 `プレゼン風に右手を動かす`機能は究極的には、たんに右手をマウスポインタがある方向に指すだけの機能です。
@@ -65,14 +66,12 @@ Microsoft PowerPointの場合、スライド上で右クリックして`ポイ�
 また、(難易度は高いですが)左手でマウスを動かしながら右手でスクリーンを指し示すことで、スクリーンをさす動作をあなた自身とキャラクターが同時に行うことも可能です。
 
 
+## Sections
 
-
-## マニュアル一覧
-
-* [VMagicMirror](./index.html)
-* [1: キャラクターを読み込んで動かす](./get_started.html)
-* [2: 詳細設定](./about_settings.html)
-* [3: トラブルシューティング](./troubleshooting.html)
-* [Tips 1: 表示位置を固定する](./tips_fix_position.html)
-* [Tips 2: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
-* Tips 3: プレゼンテーションでVMagicMirrorを使う (このページ)
+* [1: VMagicMirrorについて](./index.html)
+* [2: 基本的な使い方](./get_started.html)
+* [3: 詳細設定](./about_setttings.html)
+* [4: トラブルシューティング](./troubleshooting.html)
+* [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
+* Tips B: プレゼンテーションでVMagicMirrorを使う (このページ)
+* [License](./license.html)

@@ -1,19 +1,22 @@
-# Tips 2: デスクトップマスコット化のための設定
 
-VMagicMirrorをデスクトップマスコット化するには次のようにします。
+# Tips A: デスクトップマスコット化のための設定
 
-## Step 1: VMagicMirrorのセットアップ
+VMagicMirrorはデスクトップマスコット化としても使えます。
 
-* [1: キャラクターを読み込んで動かす](./get_started.html)の手順にしたがって、VRMを読み込み、背景の透明化などのセットアップをします。
-* [Tips 1: 表示位置を固定する](./tips_fix_position.html)の手順にしたがって、キャラクターの表示位置を固定します。
-* 設定ウィンドウの`ホーム`タブで、`次回の起動時にも同じVRMを読み込む`のチェックをオンにします。
+本セットアップによって、Windowsの起動後に、所定の位置へキャラクターを表示できます。
+
+## Tips A.1. VMagicMirrorのセットアップ
+
+* [2: 基本的な使い方](./get_started.html)の手順にしたがってVRMを読み込み、背景の透明化などのセットアップをします。
+* [3: 詳細設定](./tips_fix_position.html)のうち"3.1. ウィンドウ"に記載された手順にしたがって、キャラクターの表示位置を固定します。
+* コントロールパネルの`ホーム`タブで、`次回の起動時にも同じVRMを読み込む`のチェックがオンになっている事を確認します。
 
 以上の設定を行い、いったんVMagicMirrorを終了して再度起動します。
 
 再起動前と同じ位置に、同じキャラクターが表示されれば成功です。
 
 
-## Step 2: Windowsの起動時にVMagicMirrorをスタートさせる
+## Tips A.2. Windowsの起動時にVMagicMirrorをスタートさせる
 
 Windowsを起動した直後に自動でVMagicMirrorをスタートするには以下のようにします。
 
@@ -26,13 +29,15 @@ Windowsを起動した直後に自動でVMagicMirrorをスタートするには�
 
 ドライブ名やユーザー名の部分は実際の環境にあわせて読み替えてください。
 
-異なるバージョンのVMagicMirrorで置き換える場合や、Windows起動時にVMagicMirrorが起動する処理をやめたい場合、ショートカットを削除します。
+以上のセットアップ後にWindowsを再起動してみて、VMagicMirrorの起動設定ダイアログが表示されれば成功です。
 
+もし将来的に異なるバージョンのVMagicMirrorで置き換える場合や、自動で立ち上がる設定を無効にしたい場合、配置したショートカットを削除します。
 
-* [VMagicMirror](./index.html)
-* [1: キャラクターを読み込んで動かす](./get_started.html)
-* [2: 詳細設定](./about_setttings.html)
-* [3: トラブルシューティング](./troubleshooting.html)
-* [Tips 1: 表示位置を固定する](./tips_fix_position.html)
-* Tips 2: デスクトップマスコット化のための設定 (このページ)
-* [Tips 3: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+## Sections
+
+* [1: VMagicMirrorについて](./index.html)
+* [2: 基本的な使い方](./get_started.html)
+* [3: 詳細設定](./about_setttings.html)
+* [4: トラブルシューティング](./troubleshooting.html)
+* Tips A: デスクトップマスコット化のための設定 (このページ)
+* [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
