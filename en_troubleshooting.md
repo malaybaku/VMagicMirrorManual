@@ -35,6 +35,41 @@ If you do not use game pad, then:
 * Check off `Layout` > `GamePad` > `Enable Input Capture`.
 
 
+### 4.4. Eyes do not mouse pointer 
+
+It is by specification, for some game software (please see detail in *note*).
+
+Using fixed eye motion might improve appearance. 
+
+* Control panel > `Streaming` tab > `Face` > `Eye Look Target` > select `None`
+
+
+*note*: Cause of the trouble is as following.
+
+Some game runs program to move mouse position to the center of game window. 
+
+(FPS games need this type of program to support mouse-based camera control without getting unexpected mouse position.)
+
+It results the fixed mouse position and eye / head position of character, even if you are moving mouse physically.
+
+One example of the popular software which leads the trouble is VRChat Desktop Mode.
+
+
+### 4.5. Eye Blink tracking does not work
+
+If you put on glasses, try without them.
+
+Some frame with thick frame prevents face tracking system.
+
+If not, please check following points to help face tracking system.
+
+* Proper distance from camera
+* The room is bright
+* Neck and face outline is clear
+* Show mouth to the camera (*it is okay the microphone partly hide your mouth)
+
+Showing entire face helps eye blink tracking, because face tracking system finds your face by detecting your whole face landmark points (including mouth, eyebrows, and of course eyes).
+
 ## Sections
 
 * [1: VMagicMirror](./en_index.html)
