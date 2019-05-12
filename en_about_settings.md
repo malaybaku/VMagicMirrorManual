@@ -139,3 +139,4 @@ In `Light` tab you can set the light and bloom colors and intensities.
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)
+* [Change Log](./en_changelog.html)

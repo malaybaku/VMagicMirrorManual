@@ -22,3 +22,4 @@ If you have used VMagicMirror v0.8.0 or later, and replace it to newer version, 
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
 * Tips C: Load Previous Version Setting (This page)
 * [License](./en_about_license.html)
+* [Change Log](./en_changelog.html)

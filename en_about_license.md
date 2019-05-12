@@ -54,3 +54,4 @@ SOFTWARE.
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * License (this page)
+* [Change Log](./en_changelog.html)

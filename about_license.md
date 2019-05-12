@@ -57,3 +57,4 @@ SOFTWARE.
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
 * [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * License (このページ)
+* [Change Log](./changelog.html)

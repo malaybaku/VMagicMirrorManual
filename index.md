@@ -74,3 +74,4 @@ Twitterに関してはお問い合わせ、感想、利用報告などについ�
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
 * [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * [License](./about_license.html)
+* [Change Log](./changelog.html)
