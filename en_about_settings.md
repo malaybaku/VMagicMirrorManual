@@ -23,19 +23,9 @@ Setting Window supports detailed customization options.
 
 `Window` tab supports BG color when the character window is not transparent, and also can toggle whether the window is always foreground or not.
 
-`Window` also supports to fix the position after the application started, by following setup.
+**Note:** From v0.8.1, the character position is automatically saved, so when you quit the application and restart, the character will appear at the same place as previous time.
 
-[![Fix Window Position](./images/about_settings/img01_015_fix_window_pos.png)](./images/about_settings/img01_015_fix_window_pos.png){: data-lightbox="img01_015"}
-
-1. Follow [2: Getting Started](./get_started.html) to load character and move to anywhere you want to put.
-2. Confirm that `Window` tab of the setting window is open.
-3. Check on `Move window to specific position on startup`
-4. Click `Check Current Window Position`
-5. See the texts at the right of `X(Left = 0)` and `Y(Top = 0)` change to non-zero value.
-
-If you want to try the result, quit the VMagicMirror and restart.
-
-If the character does not appear, check on control panel `Home` tab > `Load current VRM on next startup`.
+**Hint:** When you lost where the character is, then turning off `Transparent Window` and pressing `Reset Character Position` might be a help.
 
 ## 3.2. Motion
 

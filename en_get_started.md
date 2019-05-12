@@ -33,7 +33,13 @@ If you want to use the same character every time, check `Load current VRM on nex
 
 [![After Loaded](./images/get_started/img00_040_after_loaded.png)](./images/get_started/img00_040_after_loaded.png){: data-lightbox="img00_040"}
 
-**Hint:** If your character and keyboard / mouse layout do not match, do not worry. First you can use `Adjust size by VRM` button to fix camera positions and keyboard / mouse pad positions. Also you can customize those setting manually in section [3: Settings](./en_about_settings.html).
+**Hint:** If your character and keyboard / mouse layout do not match, do not worry. First you can use `Adjust size by VRM` button to fix camera positions and keyboard / mouse pad positions. 
+
+[![Not Adjusted Layout](./images/get_started/img00_160_not_good_layout_example.png)](./images/get_started/img00_160_not_good_layout_example.png){: data-lightbox="img00_160"}
+
+[![After Adjusted](./images/get_started/img00_170_after_adjust.png)](./images/get_started/img00_170_after_adjust.png){: data-lightbox="img00_170"}
+
+Also you can see about more detailed customize in section [3: Settings](./en_about_settings.html).
 
 ## 2.3. Streaming 
 
@@ -62,7 +68,7 @@ So, please check off `(When Transparent) Drag the character` after you have move
 [![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)](./images/get_started/img00_090_transparent_bg_can_click.png){: data-lightbox="img00_090"}
 
 
-**Hint:** VMagicMirror can fix the character position on startup. Please see the detail at [3: Settings](./en_about_settings.html) > "3.1. Window".
+**Hint:** VMagicMirror saves character position and size, so when you quit VMagicMirror and restart, the character appears on the same place.
 
 ### 2.3.2. Face
 

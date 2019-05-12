@@ -31,7 +31,15 @@
 
 [![After Loaded](./images/get_started/img00_040_after_loaded.png)](./images/get_started/img00_040_after_loaded.png){: data-lightbox="img00_040"}
 
-**Hint:** キーボードやマウスの位置がキャラクターの体型からずれていますか？もしそうであれば、とりあえず`キャラの体型で補正`ボタンを押すことでレイアウトが調整されます。さらに調整する場合は、順に読み進めて[2: 詳細設定](./about_settings.html)のなかで調整できます。
+**Hint:** キーボードやマウスの位置がキャラクターの体型からずれていますか？もしそうであれば、とりあえず`キャラ体格で補正`ボタンを押すことでレイアウトが調整されます。
+
+[![Not Adjusted Layout](./images/get_started/img00_160_not_good_layout_example.png)](./images/get_started/img00_160_not_good_layout_example.png){: data-lightbox="img00_160"}
+
+[![After Adjusted](./images/get_started/img00_170_after_adjust.png)](./images/get_started/img00_170_after_adjust.png){: data-lightbox="img00_170"}
+
+さらに調整する場合は、順に読み進めて[2: 詳細設定](./about_settings.html)のなかで調整できます。
+
+
 
 ## 2.3. 配信タブ
 
@@ -64,8 +72,7 @@ VRMをロードしたら、各機能を試してみましょう。
 [![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)](./images/get_started/img00_090_transparent_bg_can_click.png){: data-lightbox="img00_090"}
 
 
-**Hint:** VMagicMirrorでは、起動時にいつも同じ場所へキャラクターを配置することもできます。([3: 詳細設定](./about_settings.html)の"3.1. ウィンドウ"を参照下さい)
-
+**Hint:** VMagicMirrorではキャラクターの位置を保存するため、いったん終了して再起動したときは同じ位置にキャラクターが表示されます。
 
 ### 2.3.2. 顔・表情
 
