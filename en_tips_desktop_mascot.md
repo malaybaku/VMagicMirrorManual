@@ -18,20 +18,17 @@ For the test, quit VMagicMirror and restart. If you can see the character with t
 
 ## Tips A.2. Start VMagicMirror on Windows startup
 
-* Right click `VmagicMirror.exe` and create shortcut.
-* Move shortcut to Windows startup folder.
+In the control panel `Home` tab, check on `Start on Windows startup` at the left bottom side.
 
-Typically the startup folder path is like this.
+And if you are putting shortcut of v0.8.0 or older version to the startup folder, remove it. The startup folder path is like following, and please replace `UserName` part for your environment.
 
 `C:\Users\(UserName)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-Please replace `UserName` and necessary drive name.
-
 After this setup, you can check if the thing goes good to restart Windows.
 
-If the setup is successful, VMagicMirror start configuration dialog will appear when Windows has started.
+If the setup is successful, VMagicMirror will starts when Windows has started.
 
-If you will replace the VMagicMirror with different version, or want to disable automatic startup, then delete the shortcut from the startup folder.
+When you replace the VMagicMirror with different version, or want to disable automatic startup, then turn off `Start on Windows startup`.
 
 
 ## Sections
@@ -42,4 +39,5 @@ If you will replace the VMagicMirror with different version, or want to disable 
 * [4: Troubleshooting](./en_troubleshooting.html)
 * Tips A: Desktop Mascot Setup (This page)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)

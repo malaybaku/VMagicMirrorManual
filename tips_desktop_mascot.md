@@ -20,20 +20,16 @@ VMagicMirrorはデスクトップマスコット化としても使えます。
 
 ## Tips A.2. Windows起動時にVMagicMirrorをスタート
 
-Windowsを起動した直後に自動でVMagicMirrorをスタートするには以下のようにします。
+コントロールパネルの`ホーム`タブ左下にある、`Windowsの起動後にスタート`のチェックをオンにします。
 
-* `VmagicMirror.exe`を右クリックし、ショートカットを作成します。
-* Windowsのスタートアップフォルダの中へショートカットを移動します。
-
-スタートアップフォルダのパスは通常、以下のようなフォルダになっています。
+また、もしVMagicMirror v0.8.0以前のバージョンでショートカットをスタートアップフォルダに配置していた場合、削除します。スタートアップフォルダは以下のようなフォルダですが、ドライブ名やユーザー名の部分は実際の環境にあわせて読み替えてください。
 
 `C:\Users\(ユーザー名)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-ドライブ名やユーザー名の部分は実際の環境にあわせて読み替えてください。
+以上のセットアップ後にWindowsを再起動してみて、VMagicMirrorが表示されれば成功です。
 
-以上のセットアップ後にWindowsを再起動してみて、VMagicMirrorの起動設定ダイアログが表示されれば成功です。
+もし将来的に異なるバージョンのVMagicMirrorで置き換える場合や、自動で立ち上がる設定を無効にしたい場合、`Windowsの起動後にスタート`のチェックをオフにします。
 
-もし将来的に異なるバージョンのVMagicMirrorで置き換える場合や、自動で立ち上がる設定を無効にしたい場合、配置したショートカットを削除します。
 
 ## Sections
 
@@ -43,4 +39,5 @@ Windowsを起動した直後に自動でVMagicMirrorをスタートするには�
 * [4: トラブルシューティング](./troubleshooting.html)
 * Tips A: デスクトップマスコット化のための設定 (このページ)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+* [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * [License](./about_license.html)

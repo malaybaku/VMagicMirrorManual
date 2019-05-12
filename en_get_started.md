@@ -7,17 +7,7 @@
 
 `VMagicMirror.exe` is main .exe file of VMagicMirror.
 
-When you started, the configuration dialog appears so check the following and then `Play!`.
-
-* `Windowed` is checked
-* `Screen Resolution` is enough smaller than whole monitor size
-* `Graphics Quality` is `High` or higher
-
-**WARN** v0.8.0 has issue that `Graphics Quality` with `Medium` or lower might drastically increases CPU usage.
-
-[![Start Configuration](./images/get_started/img00_010_startup_configuration.png)](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"})
-
-After started you will see "Control Panel" with GUI and "Character Window", where the character will appear.
+When you start the application you will see "Control Panel" with GUI and "Character Window", where the character will appear.
 
 [![Start Image](./images/get_started/img00_015_started.png)](./images/get_started/img00_015_started.png){: data-lightbox="img00_015"}
 
@@ -25,6 +15,7 @@ When you close one of control panel or character window, then the other window w
 
 Instead, the control panel can be minimized during you do not need it.
 
+*v0.8.0 shows resolution selection dialog, but in v0.8.1 we do not see the dialog anymore. Instead, you can adjust the character window size by dragging the edge of window like many other applications.
 
 ## 2.2. Load Character
 
@@ -42,7 +33,7 @@ If you want to use the same character every time, check `Load current VRM on nex
 
 [![After Loaded](./images/get_started/img00_040_after_loaded.png)](./images/get_started/img00_040_after_loaded.png){: data-lightbox="img00_040"}
 
-**Hint:** If your character and keyboard / mouse layout do not match, do not worry. You can adjust them soon after, in the section [3: Settings](./en_about_settings.html).
+**Hint:** If your character and keyboard / mouse layout do not match, do not worry. First you can use `Adjust size by VRM` button to fix camera positions and keyboard / mouse pad positions. Also you can customize those setting manually in section [3: Settings](./en_about_settings.html).
 
 ## 2.3. Streaming 
 
@@ -176,4 +167,5 @@ In this case [3: Settings](./en_about_settings.html) will solve your problems, s
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)

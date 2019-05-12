@@ -23,7 +23,7 @@ Then try to restatt.
 
 ### 4.3. Too high CPU usage
 
-Set `Graphics Quality` to `High` when starting VMagicMirror.
+When you are using v0.8.0 or older, set `Graphics Quality` to `High` when starting VMagicMirror.
 
 **WARN:** In v0.8.0, some machine with `Medium` or lower setting drastically increases CPU usage. It is a known issue.
 
@@ -78,4 +78,5 @@ Showing entire face helps eye blink tracking, because face tracking system finds
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)

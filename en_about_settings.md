@@ -45,13 +45,15 @@ If the character does not appear, check on control panel `Home` tab > `Load curr
 
 ### 3.2.1. Face
 
-Except the bottom item the properties are the same as `Streaming` tab in control panel.
+Upper part is the same as `Streaming` tab in control panel.
 
-The bottom item `Default Fun Blend Shape [%]` specifies the default fun expression rate.
+The item `Default Fun Blend Shape [%]` specifies the default fun expression rate.
 
-As the value increases the character will become always smile, but some character's facial expression will be unnatural when combined to blink or other face motions.
+As the value increases the character will become always smile, but some character's facial expression will be unnatural when combined to blink or other face motions. In those cases, decrease the value.
 
-In those cases, decrease the value.
+The `Eyebrow (Open to Customize)` is very advanced section and normally you do not need modify them. However if you have original VRM and want to move the eyebrow, or in case the eyebrow motion is too big or too small. 
+
+* This section requires the knowledge about `BlendShape` to control VRM facial expression. If you do not know well, please refer to [Virtual Cast Wiki](https://virtualcast.jp/wiki/doku.php?id=%E3%83%A2%E3%83%87%E3%83%AB%E4%BD%9C%E6%88%90:%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%97%E8%A8%AD%E5%AE%9A) and see latter section's image. You will see the name like `mouth_a` or `mouth_b`. This is BlendShape. And you can specify the name of BlendShape to move eyebrow, by sliding each shape in Unity Editor.
 
 
 ### 3.2.2. Arm
@@ -135,4 +137,5 @@ In `Light` tab you can set the light and bloom colors and intensities.
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)

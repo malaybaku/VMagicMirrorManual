@@ -69,4 +69,5 @@ If your tool for the presentation is Microsoft PowerPoint, then right-click over
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * Tips B: VMagicMirror for Presentation (this page)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)

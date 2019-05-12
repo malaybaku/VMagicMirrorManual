@@ -52,4 +52,5 @@ SOFTWARE.
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * License (this page)

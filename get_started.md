@@ -5,27 +5,14 @@
 
 ## 2.1. VMagicMirrorの開始と終了
 
-`VMagicMirror.exe`を起動します。
-
-起動の際に解像度などを聞かれるので、以下を確認して`Play!`を選択します。
-
-* `Windowed`にチェックが入ってること
-* `Screen Resolution`にモニターサイズよりも十分小さい解像度が指定されている事
-* `Graphics Quality`が`High`以上になっている事
-
-※v0.8.0時点では、`Graphics Quality`が`Medium`以下だとかえってCPU負荷が上がる場合があります。
-
-
-[![Start Configuration](./images/get_started/img00_010_startup_configuration.png)](./images/get_started/img00_010_startup_configuration.png){: data-lightbox="img00_010"})
-
-
-起動すると、GUIがある「コントロールパネル」と、キャラクターが映る「キャラクター表示ウィンドウ」が立ち上がります。
+`VMagicMirror.exe`を起動すると、GUIがある「コントロールパネル」と、キャラクターが映る「キャラクター表示ウィンドウ」が立ち上がります。
 
 [![Start Image](./images/get_started/img00_015_started.png)](./images/get_started/img00_015_started.png){: data-lightbox="img00_015"}
 
-コントロールパネルかキャラクター表示ウィンドウの一方を閉じると、もう片方の画面も閉じてVMagicMirrorが終了します。
+コントロールパネルかキャラクター表示ウィンドウの一方を閉じると、もう片方の画面も閉じてVMagicMirrorが終了します。「キャラクターは表示したいがコントロールパネルは隠したい」という場合、コントロールパネルを最小化します。
 
-「キャラクターは表示したいがコントロールパネルは隠したい」という場合、コントロールパネルを最小化します。
+
+※v0.8.0では解像度の選択ダイアログを表示していましたが、v0.8.1では廃止しています。その代わりに、キャラクターウィンドウを直接引き延ばしてサイズを調整できます。
 
 
 ## 2.2. キャラクターの表示
@@ -44,7 +31,7 @@
 
 [![After Loaded](./images/get_started/img00_040_after_loaded.png)](./images/get_started/img00_040_after_loaded.png){: data-lightbox="img00_040"}
 
-**Hint:** キーボードやマウスの位置がキャラクターの体型からずれていますか？もしそうであれば、順に読み進めて[2: 詳細設定](./about_settings.html)のなかで調整できます。
+**Hint:** キーボードやマウスの位置がキャラクターの体型からずれていますか？もしそうであれば、とりあえず`キャラの体型で補正`ボタンを押すことでレイアウトが調整されます。さらに調整する場合は、順に読み進めて[2: 詳細設定](./about_settings.html)のなかで調整できます。
 
 ## 2.3. 配信タブ
 
@@ -186,4 +173,5 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+* [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * [License](./about_license.html)

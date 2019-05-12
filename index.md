@@ -3,10 +3,10 @@
 
 [English](./en_index.html)
 
-VMagicMirror v0.8.0
+VMagicMirror v0.8.1
 
 * 作者: 獏星(ばくすたー)
-* 2019/05/06
+* 2019/05/12
 
 WindowsでVRMを表示し、特別なデバイスを使わずキャラクターを動かせるアプリケーションです。
 
@@ -24,10 +24,10 @@ WindowsでVRMを表示し、特別なデバイスを使わずキャラクター�
 * 音声入力によるリップシンク
 * カメラでの表情トラッキング
 
-以下のユースケース向けに作成しています。
+おもに以下のユースケース向けに作成しています。
 
 * PCゲームの実況配信
-* 文字書きがメインの作業配信
+* 文字書きメインの作業配信
 * ライブコーディング中の賑やかし
 * プレゼンテーションへのキャラクター上乗せ
 * デスクトップマスコット
@@ -53,6 +53,7 @@ VMagicMirrorは個人・商用利用を問わずお使いいただけます。
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+* [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 
 ## 1.5. 質問など
 
@@ -71,4 +72,5 @@ Twitterに関してはお問い合わせ、感想、利用報告などについ�
 * [4: トラブルシューティング](./troubleshooting.html)
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
+* [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * [License](./about_license.html)

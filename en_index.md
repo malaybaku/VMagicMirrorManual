@@ -3,10 +3,10 @@
 
 [Japanese](./index.html)
 
-VMagicMirror v0.8.0
+VMagicMirror v0.8.1
 
 * Creator: 獏星(ばくすたー)
-* 2019/May/06
+* 2019/May/12
 
 VMagicMirror is application for Windows desktop, to move your VRM without any special devices.
 
@@ -51,6 +51,7 @@ Please see the detail on [License](./en_about_license.html).
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 
 ## 1.5. Contact
 
@@ -69,4 +70,5 @@ If you use Twitter, the review comments or requests with tag `#VMagicMirror` is 
 * [4: Troubleshooting](./en_troubleshooting.html)
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
+* [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)
