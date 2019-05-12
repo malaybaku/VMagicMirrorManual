@@ -3,6 +3,11 @@
 
 [English](./en_get_started.html)
 
+※最小限のセットアップ手順は以下の動画でも紹介しています。大まかな流れだけ確認したい場合、こちらの動画に沿った手順でもセットアップが可能です。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFalrIig-RM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## 2.1. VMagicMirrorの開始と終了
 
 `VMagicMirror.exe`を起動すると、GUIがある「コントロールパネル」と、キャラクターが映る「キャラクター表示ウィンドウ」が立ち上がります。
