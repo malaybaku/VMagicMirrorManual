@@ -17,9 +17,10 @@ Please see [2: Getting Started](./en_get_started.html) > "2.3.1. Window" also.
 
 Setting file might be broken in this case, so please try to reset the settings.
 
-Open the folder in which `VMagicMirror.exe` exists, and then delete `_autosave` file in `ConfigApp` folder.
-
-Then try to restatt.
+* Press `Reset` on the control panel `Home` tab, and then press `OK` on the confirmation dialog to reset settings.
+    + If it recovers the situation, please follow [2: Get Started](./en_get_started.html) to setup.
+* If the problem still remains, exit VMagicMirror.
+* Open the folder in which `VMagicMirror.exe` exists, and then delete `_autosave` file in `ConfigApp` folder. Then try to restatt.
 
 ### 4.3. Too high CPU usage
 
