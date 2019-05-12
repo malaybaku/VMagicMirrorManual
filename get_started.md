@@ -37,7 +37,7 @@
 
 [![After Adjusted](./images/get_started/img00_170_after_adjust.png)](./images/get_started/img00_170_after_adjust.png){: data-lightbox="img00_170"}
 
-さらに調整する場合は、順に読み進めて[2: 詳細設定](./about_settings.html)のなかで調整できます。
+さらに調整する場合は、順に読み進めて[3: 詳細設定](./about_settings.html)のなかで調整できます。
 
 
 
