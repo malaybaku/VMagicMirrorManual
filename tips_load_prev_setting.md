@@ -23,5 +23,4 @@
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
 * Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ (このページ)
-) [License](./about_license.html)
-ありがとうございます。
+* [License](./about_license.html)
