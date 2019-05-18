@@ -71,6 +71,35 @@ If not, please check following points to help face tracking system.
 
 Showing entire face helps eye blink tracking, because face tracking system finds your face by detecting your whole face landmark points (including mouth, eyebrows, and of course eyes).
 
+## 4.6. After loading VRM character window seems disappear
+
+This issue might happen when you have changed display resolution or placement.
+
+In this case, you can reset the window position.
+
+* Move Control panel to near to the left top side of screen.
+* Open setting window and show `Window` tab to select `Reset Character Position`.
+    + If you could find character then [2: Get Started](./en_get_started.html) will support your setup.
+* If the character still does not appear, then turn off `Transparent Background` on setting window `Window` tab and check if you can see green window at the right side of control panel.
+* Setting window `Layout` tab, see `Camera` menu, and press `Reset Position` to reset the camera position.
+    + If you could find character then [2: Get Started](./en_get_started.html) will support your setup.
+
+If you still have trouble, then please try the way in `4.2. VMagicMirror stops soon after started`.
+
+
+## 4.7. Character position is not correct when starting VMagicMirror
+
+Known issue in v0.8.1. Will be Fixed in next version.
+
+## 4.8. Nothing happens after select .vrm on `Load VRM`
+
+Security software can be the cause of this issue, as VMagicMirror operates interprocess communication between character window and control panel.
+
+Please try if it works when the security software is disabled.
+
+As far as the creator knows, COMODO Internet Security leads this issue, but it is just an example.
+
+
 ## Sections
 
 * [1: VMagicMirror](./en_index.html)

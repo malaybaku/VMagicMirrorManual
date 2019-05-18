@@ -27,6 +27,8 @@ After you selected the character the license will be shown.
 
 [![Load Confirmation](./images/get_started/img00_030_load_vrm_confirmation.png)](./images/get_started/img00_030_load_vrm_confirmation.png){: data-lightbox="img00_030"}
 
+**NOTE:** If you cannot see the license and you are using some security software, please retry after disabling them.
+
 After the confirmation and `OK`, then the character will appear and react to your mouse and keyboard input.
 
 If you want to use the same character every time, check `Load current VRM on next startup`.
