@@ -3,86 +3,96 @@
 
 [Japanese](./changelog.html)
 
-*Sorry translation is to be done for change log...
+## v0.8.2
+
+2019/05/19
+
+* Changelog is now in English!!
+* Issue fix: v0.8.1で、Windows再起動などの後にキャラ位置がおかしくなる事があった問題を修正
+* Issue fix: "g"と"h"など、左手と右手が近づく位置のキーを入力すると手が被ってしまっていた問題を修正
+* New feature : Camer FOV (field of view) adjust UI on setting window > "Layout" > "Camera"
+* Changed : Internal improvement for the lighter of face tracking
+* Changed : During the face tracking, close eye totally when almost closed
+* Changed : Improve presentation mode motion so that right index finger and mouse pointer get closed
+* Changed : Hide mouse pad always (as it looks not so good by overriding keyboard area..)
 
 ## v0.8.1
 
 2019/05/12
 
-* 「キャラの体格で補正」ボタンを追加
-* キャラクターウィンドウの解像度ダイアログを廃止するかわり、ウィンドウが透明でなければ直接つかんでリサイズできるよう変更
-* 眉毛の動かし方を調整する機能を追加
-    + VRoid Studio製モデルとAlicia Solidでは自動調整するよう機能を追加
-* Windowsのスタート時に自動で立ち上がる機能を追加
-* 旧バージョンからの設定引き継ぎ機能を追加(※v0.8.0以降の設定のみ引継ぎ可能)
-* リップシンクを無効化すると口が開きっぱなしになる不具合を修正
+* "Adjust size by VRM" feature
+* Allow resize character window, and remove resolution selection dialog
+* Eyebrow motion parameter UI
+    + For VRoid Studio based model and Alicia Solid, automate setup
+* Automatic startup when Windows has started
+* Load previous version setting (* works for v0.8.0 or later)
+* Fix issue after lip sync is disabled, mouth remains open
 
 ## v0.8.0
 
 2019/05/04
 
-* 顔トラッキング機能を追加
-* マニュアルを全面刷新
-* GUIのレイアウトを全体に見直し、コントロールパネルと設定ウィンドウを分割
-* VRoidStudio 0.6.3以降の出力モデルでのみ眉毛が動く機能を追加
+* Face tracking
+* New manual (this is what you see now!)
+* Refresh whole GUI layout
+* Eyebrow motion for VRoidStudio 0.6.3 or newer VRoidStudio output model
 
 ## v0.1.6a (v0.16a)
 
 2019/04/28
 
-* v0.1.6で手首の角度が大幅にずれる不具合があったのを修正
+* Fix issue that v0.1.6 bends wrist angle too much
 
 ## v0.1.6 (v0.16)
 
 2019/04/27
 
-* フリーカメラモードを追加
-* プレゼンモード(マウス位置を指さす機能)を追加
-* キャラクターの脇をしめる機能を追加
+* Free camera mode
+* Prensentation mode to point mouse position by right hand
+* Close character's elbow to the body feature
 
 ## v0.1.5 (v0.15)
 
 2019/04/20
 
-* リップシンクで使うマイクを可変にする機能を追加
-* キャラクターウィンドウを閉じたときにコントロールパネルも閉じる機能を追加
-* 一部のVRMでリップシンクとタイピング時の指が動かなかった問題を修正
+* Selectable microphone input for lip sync
+* When closing character window, control panel also closes
+* Fix issue some character cannot move her/his finger and lip sync does not work
 
 ## v0.1.4 (v0.14)
 
 2019/03/29
 
-* コントローラ入力でキャラクターが動く機能を追加
+* Controller input support
 
 ## v0.1.3 (v0.13)
 
 2019/03/22
 
-* リップシンク機能を追加
-* UIの日/英切り替えをサポート
+* Lip Sync
+* UI translation for JP/EN
 
 ## v0.1.2 (v0.12)
 
 2019/03/17
 
-* キャラクターウィンドウの表示位置を記憶する機能を追加
-* キャラクターの肘や肩が大きくねじれる事がある問題を修正
-* PrintScreenキーの打鍵位置がおかしかったのを修正
+* Add function to memorize character window position
+* Fix issue some character has strange wrist and elbow bending angle
+* Fix issue the PrintScreen key is incorrect
 
 ## v0.1.1 (v0.11)
 
 2019/03/14
 
-* 手とキーボードの距離が調整できる処理を追加
-* キャラクターウィンドウとコントロールパネルの初期位置がずれやすくする処理を追加
-* デフォルトでフルスクリーンにならないようにする処理を追加
+* UI to adjust hand - keyboard distance
+* Adjust window positions to avoid control panel is hidden
+* Disable full screen by default
 
 ## v0.1.0 (v0.1)
 
 2019/03/13
 
-* BOOTHへ公開
-
+* Publish on BOOTH
 
 
 ## Sections
