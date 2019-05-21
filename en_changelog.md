@@ -3,7 +3,7 @@
 
 [Japanese](./changelog.html)
 
-## v0.8.2a
+## v0.8.2(a)
 
 2019/05/21
 
