@@ -3,13 +3,20 @@
 
 [Japanese](./changelog.html)
 
+## v0.8.2a
+
+2019/05/21
+
+* New: "Open Manual URL" link at the right top side on control panel Home tab.
+* Changed: Internal optimization for the higher FPS during face tracking.
+
 ## v0.8.2
 
 2019/05/19
 
 * Changelog is now in English!!
-* Issue fix: v0.8.1で、Windows再起動などの後にキャラ位置がおかしくなる事があった問題を修正
-* Issue fix: "g"と"h"など、左手と右手が近づく位置のキーを入力すると手が被ってしまっていた問題を修正
+* Issue fix: in v0.8.1 character position sometimes gets incorrect. v0.8.2 fix this issue.
+* Issue fix: some key typing like "g" and "h" makes hands collision until v0.8.1, and v0.8.2 fixes this issue partially.
 * New feature : Camer FOV (field of view) adjust UI on setting window > "Layout" > "Camera"
 * Changed : Internal improvement for the lighter of face tracking
 * Changed : During the face tracking, close eye totally when almost closed
