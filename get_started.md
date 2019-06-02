@@ -122,6 +122,9 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 [![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
 
+**Hint:** 影の見栄えがあまり良くない場合、[4: トラブルシューティング](./troubleshooting.html)の"4.9. 影が綺麗に映らない"をご確認下さい。どうしても見栄えが改善しない場合、影の表示をオフにして下さい。
+
+
 ### 2.3.4. カメラ
 
 `フリーカメラモード`を用いるとカメラの視点を変更し、自由な方向からキャラクターを見られます。

@@ -114,6 +114,8 @@ Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 
 [![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
 
+**Hint:** If the shadow looks not good, please refer to [4: Troubleshooting](./en_troubleshooting.html) and see "4.9. Shadow looks not good". If this troubleshooting does not work well, please disable shadow.
+
 ### 2.3.4. Camera
 
 This "Camera" means eyesight on the character window.

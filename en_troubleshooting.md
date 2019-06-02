@@ -99,6 +99,18 @@ Please try if it works when the security software is disabled.
 
 As far as the creator knows, COMODO Internet Security leads this issue, but it is just an example.
 
+## 4.8. Shadow looks not good
+
+* It is possible the character uses `Unlit` style shader and this case shadow might not appear.
+* When your model is based on VRoidStudio and texture is partially transparent, some transparent part happens to be drawn with half transparent style.
+
+If your trouble does not match above cases, then quality setting may be a help (however CPU usage increases).
+
+* When starting `VMagicMirror.exe` use `SHIFT+ENTER` instead of double click. This will show the quality and resolution selection dialog.
+* Select `Quality Setting` item to `Very High` or `Ultra`. 
+
+The quality setting above is saved and also used from next startup.
+
 
 ## Sections
 
