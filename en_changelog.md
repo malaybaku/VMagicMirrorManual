@@ -3,6 +3,17 @@
 
 [Japanese](./changelog.html)
 
+## v0.8.3 
+
+2019/06/02
+
+* Add: shadow
+* Add: UI to adjust light and shadow direction ("light" tab in setting window)
+* Change: decrease FOV of camera from 60deg to 40deg
+* Change: free camera mode changes its rotational motion to track character. 
+* Change: disable dragging when you click transparent area, during transparent window mode
+* Fix: Stabilize the appearance of VRM load UI.
+
 ## v0.8.2(a)
 
 2019/05/21

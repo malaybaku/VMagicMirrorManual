@@ -3,10 +3,10 @@
 
 [Japanese](./index.html)
 
-VMagicMirror v0.8.2a
+VMagicMirror v0.8.3
 
 * Creator: 獏星(ばくすたー)
-* 2019/May/21
+* 2019/Jun/02
 
 VMagicMirror is application for Windows desktop, to move your VRM without any special devices.
 
@@ -61,6 +61,11 @@ Welcome for the bug reports and update requests!
 * [Blog](https://www.baku-dreameater.net/)
 
 If you use Twitter, the review comments or requests with tag `#VMagicMirror` is great for the creator to find.
+
+However the case is possible the author cannot find your feedback by Search Suggest Ban system of Twitter. If your tagged tweet is ignored, please visit to [Shadowban.eu](https://shadowban.eu/) to check it, and use mention (@ tweet) or following Google Form for the feedback.
+
+* [Feedback for VMagicMirror](https://forms.gle/Myt4vRdKLrYJLnGo9)
+
 
 ## Sections
 

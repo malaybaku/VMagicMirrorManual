@@ -61,13 +61,16 @@ After setup transparent background, then confirm to check `(When Transparent) Dr
 
 [![Transparent Background](./images/get_started/img00_070_transparent_bg_drag.png)](./images/get_started/img00_070_transparent_bg_drag.png){: data-lightbox="img00_070"}
 
-However the `Drag the character` check might prevent your mouse input by invisible blocked area of VMagicMirror.
-
-[![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)](./images/get_started/img00_080_transparent_bg_cannot_click.png){: data-lightbox="img00_080"}
+However the `Drag the character` check might prevent your mouse input.
 
 So, please check off `(When Transparent) Drag the character` after you have moved the character to the position you like.
 
 [![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)](./images/get_started/img00_090_transparent_bg_can_click.png){: data-lightbox="img00_090"}
+
+**note: ** If you use v0.8.2a or older, and both check `Transparent Window`, `(When Transparent) Drag the character` is on, then some transparent area is also the target of dragging. This behavior is not intuitional so please be careful.
+
+[![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)](./images/get_started/img00_080_transparent_bg_cannot_click.png){: data-lightbox="img00_080"}
+
 
 
 **Hint:** VMagicMirror saves character position and size, so when you quit VMagicMirror and restart, the character appears on the same place.
@@ -105,7 +108,7 @@ This motion is suited for working streaming or presentation, but you might needs
 
 ### 2.3.3. View
 
-Toggle `Keyboard` and `Gamepad` to show and hide them.
+Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 
 [![Keyboard Visible](./images/get_started/img00_110_view_keyboard_visible.png)](./images/get_started/img00_110_view_keyboard_visible.png){: data-lightbox="img00_110"}
 

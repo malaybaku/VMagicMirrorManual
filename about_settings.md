@@ -129,7 +129,23 @@
 
 ## 3.4. ライト
 
-`ライト`タブでは光やBloomについて色彩、強さを調整できます。
+`ライト`タブでは光や影、Bloomについての設定を調節できます。
+
+キャラクターに照明を当てるライトと影の向きは別々の設定になっています。
+
+これは、キャラクターには上から光を当て、影は正面から当てるための仕組みです。
+
+
+影の向きと奥行を調節すると、キャラクターとデスクトップ画面の距離感を変更することもできます。
+
+デフォルト設定の影:
+
+[![Default Depth Shadow](./images/about_settings/img01_070_shadow_depth_default.png)](./images/about_settings/img01_070_shadow_depth_default.png){: data-lightbox="img01_070"}
+
+キャラと画面が離れているように見せるための調整例: 
+
+[![Default Depth Shadow](./images/about_settings/img01_080_shadow_depth_look_far.png)](./images/about_settings/img01_080_shadow_depth_look_far.png){: data-lightbox="img01_080"}
+
 
 ※VRMのキャラクターは`Unlit`系統のシェーダーが使われていることがあります。その場合、ライトを調整しても見た目が変わらないことに注意してください。
 

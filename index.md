@@ -3,10 +3,10 @@
 
 [English](./en_index.html)
 
-VMagicMirror v0.8.2a
+VMagicMirror v0.8.3
 
 * 作者: 獏星(ばくすたー)
-* 2019/05/21
+* 2019/06/03
 
 WindowsでVRMを表示し、特別なデバイスを使わずキャラクターを動かせるアプリケーションです。
 
@@ -63,6 +63,10 @@ VMagicMirrorは個人・商用利用を問わずお使いいただけます。
 * [Blog](https://www.baku-dreameater.net/)
 
 Twitterに関してはお問い合わせ、感想、利用報告などについて、ハッシュタグ`#VMagicMirror`でツイート頂ければ確認します。
+
+※ハッシュタグでのツイートについて、要望を書いているのに作成者が一切関知していない場合、Search Suggest Banされている可能性があります。お手数ですが[Shadowban.eu](https://shadowban.eu/)などで確認のうえ、もしSearch Suggest Banの対象でフィードバックをお寄せくださる場合はメンション(@ツイート)か以下Google Formにてお願いします。
+
+* [VMagicMirror要望・質問フォーム](https://forms.gle/ULLsY4C96ggZBfNw9)
 
 ## Sections
 
