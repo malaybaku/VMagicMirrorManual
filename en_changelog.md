@@ -3,6 +3,14 @@
 
 [Japanese](./changelog.html)
 
+## v0.8.4 
+
+2019/06/05
+
+* Fix: Shadow was strange with trasparent colored texture until v0.8.3.
+* Change: Default light and shadow settings.
+* Change (Internal): Update UniVRM version from v0.51.0 to v0.52.0.
+
 ## v0.8.3 
 
 2019/06/02
