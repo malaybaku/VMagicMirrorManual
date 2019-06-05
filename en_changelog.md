@@ -9,7 +9,7 @@
 
 * Fix: Shadow was strange with trasparent colored texture until v0.8.3.
 * Change: Default light and shadow settings.
-* Change (Internal): Update UniVRM version from v0.51.0 to v0.52.0.
+* Change (Internal): Update UniVRM version from v0.51.0 to v0.53.0.
 
 ## v0.8.3 
 
