@@ -1,12 +1,13 @@
 
 # Frequently Asked Questions
 
+[Japanese](./frequently_asked_questions.html)
+
 ## Q1. What is the environment requirements?
 
 Support Windows 10.
 
 For LipSync you can use not only normal (physical) microphone input but also virtual microphone, which means you can use voice-changed input.
-Windows 10で動作します。
 
 Preffered webcam for the face tracking is the one with narrow FOV (field of view). Low resolution camera is available, because VMagicMirror uses compressed webcam input with about 320x240 px.
 

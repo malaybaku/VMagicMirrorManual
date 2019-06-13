@@ -1,6 +1,8 @@
 
 # Frequently Asked Questions
 
+[English](./en_frequently_asked_questions.html)
+
 ## Q1. 動作環境は？
 
 Windows 10で動作します。
