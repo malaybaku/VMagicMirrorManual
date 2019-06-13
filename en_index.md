@@ -38,6 +38,8 @@ Available on [BOOTH](https://booth.pm/ja/items/1272298). Support Windows 10.
 
 VMagicMirror is free, and also you can donate for the software on BOOTH.
 
+For the detail of the enviroment requirement please see [FAQ](./en_frequently_asked_questions.html).
+
 ## 1.3. License
 
 Available for both personal and commercial use.
@@ -78,3 +80,4 @@ However the case is possible the author cannot find your feedback by Search Sugg
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)
 * [Change Log](./en_changelog.html)
+* [FAQ](./en_frequently_asked_questions.html)

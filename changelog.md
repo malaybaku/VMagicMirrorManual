@@ -131,3 +131,4 @@
 * [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * [License](./about_license.html)
 * Change Log (このページ)
+* [FAQ](./en_frequently_asked_questions.html)

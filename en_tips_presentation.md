@@ -72,3 +72,4 @@ If your tool for the presentation is Microsoft PowerPoint, then right-click over
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)
 * [Change Log](./en_changelog.html)
+* [FAQ](./en_frequently_asked_questions.html)

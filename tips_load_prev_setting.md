@@ -25,3 +25,4 @@
 * Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ (このページ)
 * [License](./about_license.html)
 * [Change Log](./changelog.html)
+* [FAQ](./en_frequently_asked_questions.html)

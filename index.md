@@ -40,6 +40,8 @@ Windows 10環境をサポートしています。
 
 無償で公開していますが、ブーストつきで購入していただけると作者が喜びます。
 
+動作環境の詳細については[FAQ](./frequently_asked_questions.html)も参照下さい。
+
 ## 1.3. ライセンス
 
 VMagicMirrorは個人・商用利用を問わずお使いいただけます。
@@ -79,3 +81,4 @@ Twitterに関してはお問い合わせ、感想、利用報告などについ�
 * [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
 * [License](./about_license.html)
 * [Change Log](./changelog.html)
+* [FAQ](./frequently_asked_questions.html)

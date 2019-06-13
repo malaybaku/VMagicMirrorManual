@@ -123,3 +123,4 @@ The quality setting above is saved and also used from next startup.
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
 * [License](./en_about_license.html)
 * [Change Log](./en_changelog.html)
+* [FAQ](./en_frequently_asked_questions.html)
