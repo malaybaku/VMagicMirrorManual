@@ -3,6 +3,16 @@
 
 [Japanese](./changelog.html)
 
+## v0.8.5
+
+2019/06/15
+
+* Add: UI icons
+* Fix: Avoid to show two or more setting windows
+* Change: Improve to reduce CPU usage
+* Change: Improve shadow looking
+* Change: Increase the scale of waiting motion with faster motion
+
 ## v0.8.4 
 
 2019/06/05
