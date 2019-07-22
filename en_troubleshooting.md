@@ -89,7 +89,7 @@ If you still have trouble, then please try the way in `4.2. VMagicMirror stops s
 
 ## 4.7. Character position is not correct when starting VMagicMirror
 
-Known issue in v0.8.1. Will be Fixed in next version.
+Known issue in v0.8.1 and fixed in newer versions.
 
 ## 4.8. Nothing happens after select .vrm on `Load VRM`
 
@@ -99,7 +99,7 @@ Please try if it works when the security software is disabled.
 
 As far as the creator knows, COMODO Internet Security leads this issue, but it is just an example.
 
-## 4.8. Shadow looks not good
+## 4.9. Shadow looks not good
 
 * It is possible the character uses `Unlit` style shader and this case shadow might not appear.
 * When your model is based on VRoidStudio and texture is partially transparent, some transparent part happens to be drawn with half transparent style.
@@ -110,6 +110,12 @@ If your trouble does not match above cases, then quality setting may be a help (
 * Select `Quality Setting` item to `Very High` or `Ultra`. 
 
 The quality setting above is saved and also used from next startup.
+
+## 4.10. Want to hide the circle mark around the mouse pointer during `Presentation-like hand` is on
+
+This is a new feature in v0.8.6.
+
+In the setting window `Motion` tab, see `Arm` and turn off `Show Pointer Support` to hide the mark.
 
 
 ## Sections

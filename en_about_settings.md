@@ -23,6 +23,11 @@ Setting Window supports detailed customization options.
 
 `Window` tab supports BG color when the character window is not transparent, and also can toggle whether the window is always foreground or not.
 
+`Character Transparency Support` can customize when your character is semitransparent and when is opaque.
+
+In default, the character becomes semitransparent during the mouse pointer is onto the character, so that you character does not disturb what exist behind her/him. You can also change the condition by changing sliding `Transparency Level`. For example, level 0 means always NOT transparent, which is older version's behavior.
+
+
 **Note:** From v0.8.1, the character position is automatically saved, so when you quit the application and restart, the character will appear at the same place as previous time.
 
 **Hint:** When you lost where the character is, then turning off `Transparent Window` and pressing `Reset Character Position` might be a help.
@@ -59,6 +64,8 @@ Please see the following example of default value, close elbow strongly, and ope
 [![Arm Side Close](./images/about_settings/img01_030_arm_side_close.png)](./images/about_settings/img01_030_arm_side_close.png){: data-lightbox="img01_030"}
 
 [![Arm Side Open](./images/about_settings/img01_040_arm_side_open.png)](./images/about_settings/img01_040_arm_side_open.png){: data-lightbox="img01_040"}
+
+`Show Pointer Support` toggles whether the circle shaped mouse emphasize indication should be visible or not.
 
 `Presentation-like motion scale [%]` has effect during `Presentation-like hand` check is on.
 

@@ -3,6 +3,15 @@
 
 [Japanese](./changelog.html)
 
+## v0.8.6
+
+2019/07/22
+
+* Add: Pointer emphasize during presentation mode.
+* Add: Whole character transparency in `Window` setting.
+* Fix: Fix to enable loading specific VRM models those were unavailable in v0.8.4 and v0.8.5.
+
+
 ## v0.8.5
 
 2019/06/15
