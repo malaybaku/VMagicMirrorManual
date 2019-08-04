@@ -83,7 +83,7 @@ VRMをロードしたら、各機能を試してみましょう。
 
 ### 2.3.2. 顔・表情
 
-`顔・表情`メニューはその名の通り、顔の動きに関連する主要な機能です。
+`顔・表情`メニューは、顔の動きに関連する主要な機能です。
 
 [![Face Streaming](./images/get_started/img00_100_streaming_face.png)](./images/get_started/img00_100_streaming_face.png){: data-lightbox="img00_100"}
 
@@ -124,6 +124,9 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 **Hint:** 影の見栄えがあまり良くない場合、[4: トラブルシューティング](./troubleshooting.html)の"4.9. 影が綺麗に映らない"をご確認下さい。どうしても見栄えが改善しない場合、影の表示をオフにして下さい。
 
+また、キーボードを表示した状態で`タイピング時のエフェクト`を中央の「テキスト」または右の「ライト」に指定することで、タイピングにあわせた演出も表示されるようになります
+
+[![Typing Effect](./images/get_started/img00_125_view_typing_effect_example.png)](./images/get_started/img00_125_view_typing_effect_example.png){: data-lightbox="img00_125"}
 
 ### 2.3.4. カメラ
 

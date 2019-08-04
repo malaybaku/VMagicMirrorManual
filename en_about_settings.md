@@ -40,7 +40,7 @@ In default, the character becomes semitransparent during the mouse pointer is on
 
 ### 3.2.1. Face
 
-Upper part is the same as `Streaming` tab in control panel.
+Upper part is almost the same as `Streaming` tab in control panel, and additional check `Auto blink during face tracking` is also available. Turn on this check when you have some trouble about eye open / close tracking.
 
 The item `Default Fun Blend Shape [%]` specifies the default fun expression rate.
 
@@ -104,6 +104,8 @@ Same as `Camera` menu in control panel `Streaming` tab.
 ### 3.3.2. Keyboard
 
 You can change the size and height of the keyboard and mouse pad, along to your character's scale.
+
+This panel also supports the selection of typing effect, as control panel `Streaming` tab.
 
 ### 3.3.3. Gamepad
 

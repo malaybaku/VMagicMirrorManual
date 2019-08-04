@@ -3,6 +3,14 @@
 
 [Japanese](./changelog.html)
 
+## v0.8.7
+
+2019/08/04
+
+* Add: Typing Effect
+* Add: Auto blink when tracking face
+* Change: Head motion to be 3DoF when tracking face
+
 ## v0.8.6
 
 2019/07/22

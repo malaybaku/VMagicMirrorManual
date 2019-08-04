@@ -116,6 +116,11 @@ Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 
 **Hint:** If the shadow looks not good, please refer to [4: Troubleshooting](./en_troubleshooting.html) and see "4.9. Shadow looks not good". If this troubleshooting does not work well, please disable shadow.
 
+`Typing Effect` is enabled when you select `text` option at the center, or `light` at the right.
+
+[![Typing Effect](./images/get_started/img00_125_view_typing_effect_example.png)](./images/get_started/img00_125_view_typing_effect_example.png){: data-lightbox="img00_125"}
+
+
 ### 2.3.4. Camera
 
 This "Camera" means eyesight on the character window.
