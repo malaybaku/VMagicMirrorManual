@@ -3,6 +3,19 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.0
+
+2019/09/29
+
+* Add: "Word to Motion" feature to move the character by typing
+* Add: Screenshot
+* Add: Simply standing mode, without typing and mouse reaction
+* Change: Motion for the gamepad, so that it looks like the character grips a normal gamepad.
+* Change: Eye motion (introduce eye jitter)
+* Change: Internal source code updates.
+* Fix: Fix bug that, in some Europe Windows OS, the character does not appear after load.
+* Fix: Fix bug of unnatural eye motion, when the character does not have blink BlendShape.
+
 ## v0.8.7
 
 2019/08/04

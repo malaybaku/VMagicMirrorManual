@@ -114,6 +114,8 @@ Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 
 [![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
 
+*In v0.9.0 gamepad is always disappeared.
+
 **Hint:** If the shadow looks not good, please refer to [4: Troubleshooting](./en_troubleshooting.html) and see "4.9. Shadow looks not good". If this troubleshooting does not work well, please disable shadow.
 
 `Typing Effect` is enabled when you select `text` option at the center, or `light` at the right.
@@ -167,6 +169,21 @@ This style matches when you have presentation or you want to create instruction 
 When quitting the mode check off `Presentation-like hand`.
 
 **Hint:** Detail is in [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html).
+
+### 2.3.6. Screenshot
+
+From VMagicMirror v0.9.0, you can take screenshot.
+
+[![Screenshot](./images/get_started/img00_180_screenshot.png)](./images/get_started/img00_180_screenshot.png){: data-lightbox="img00_180"}
+
+Press `Take` button to start 3 second count down, and the screenshot will be captured.
+
+Screenshot is saved to the `Screenshots` folder in the folder where `VMagicMirror.exe` exists.
+
+The screenshot is transparent considered image. If you turn on shadow it will be also included. This S
+
+[![Screenshot Result](./images/get_started/img00_190_screenshot_shadow.png)](./images/get_started/img00_190_screenshot_shadow.png){: data-lightbox="img00_190"}
+
 
 ## 2.4. For further customize
 

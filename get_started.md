@@ -114,6 +114,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 * ユーザー: キャラクターは常にあなたの方向を向きます。マウスの動きが激しすぎる場合などに使用します。
 * 固定: 顔トラッキングのみで首を動かすようにします。動きをおさえたい場合に使用します。
 
+
 ### 2.3.3. 表示
 
 `表示`から`キーボード・マウスパッド`や`ゲームパッド`、`キャラの影`のチェックのオン・オフを切り替えることで、これらの要素を表示するか隠すかを選択できます。
@@ -121,6 +122,8 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 [![Keyboard Visible](./images/get_started/img00_110_view_keyboard_visible.png)](./images/get_started/img00_110_view_keyboard_visible.png){: data-lightbox="img00_110"}
 
 [![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
+
+※v0.9.0ではゲームパッドはつねに非表示となります。
 
 **Hint:** 影の見栄えがあまり良くない場合、[4: トラブルシューティング](./troubleshooting.html)の"4.9. 影が綺麗に映らない"をご確認下さい。どうしても見栄えが改善しない場合、影の表示をオフにして下さい。
 
@@ -172,6 +175,20 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 このモードを終了するときは`プレゼン風に右手を動かす`のチェックをオフにします。
 
 **Hint:** 詳しくは[Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)もあわせてご覧下さい。
+
+### 2.3.6. スクリーンショット
+
+VMagicMirror v0.9.0以降ではスクリーンショットが撮影できます。
+
+[![Screenshot](./images/get_started/img00_180_screenshot.png)](./images/get_started/img00_180_screenshot.png){: data-lightbox="img00_180"}
+
+`撮影`ボタンを押すと3秒間のカウントダウンののち、スクリーンショットを撮影します。
+
+スクリーンショットの保存先は`VMagicMirror.exe`があるフォルダの`Screenshots`フォルダです。(スクリーンショットを1枚も撮った事が無い場合、フォルダが存在しないことがあります)
+
+スクリーンショットは透過画像で、影の表示/非表示も反映されるため、影ごと他の画像と合成することができます。
+
+[![Screenshot Result](./images/get_started/img00_190_screenshot_shadow.png)](./images/get_started/img00_190_screenshot_shadow.png){: data-lightbox="img00_190"}
 
 
 ## 2.4. もっと細かく調整したい方へ
