@@ -19,15 +19,13 @@ Instead, the control panel can be minimized during you do not need it.
 
 ## 2.2. Load Character
 
-<div class="embed-container">
-  <iframe
-      src="./videos/vmm_manual_load_vrm.mp4"
-      width="480"
-      height="270"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+<iframe
+    src="./videos/vmm_manual_load_vrm.mp4"
+    width="480"
+    height="270"
+    frameborder="0"
+    allowfullscreen="">
+</iframe>
 
 In the control panel `Home` tab, select `Load VRM` button to select `.vrm` file on your PC.
 
