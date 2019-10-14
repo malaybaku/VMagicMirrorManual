@@ -19,6 +19,8 @@ Instead, the control panel can be minimized during you do not need it.
 
 ## 2.2. Load Character
 
+<video src="./videos/vmm_manual_load_vrm.mp4" width="720" height="360" controls></video>
+
 In the control panel `Home` tab, select `Load VRM` button to select `.vrm` file on your PC.
 
 [![Load VRM](./images/get_started/img00_020_load_vrm.png)](./images/get_started/img00_020_load_vrm.png){: data-lightbox="img00_020"}
