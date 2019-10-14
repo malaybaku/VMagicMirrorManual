@@ -3,6 +3,17 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.1
+
+2019/10/14
+
+* Add: "Word to Motion" feature support gamepad input
+* Add: Add "Good" motion to "Wort to Motion" built-in motions
+* Change: In presentation mode, all keyboard typing is treated as left hand motion
+* Change: In presentation mode, automatic adjust for arm stretch factor
+* Change: Improve motion to relax wrists twist
+* Change: Fix internal behavior to reduce risk of treated as malware from security software
+
 ## v0.9.0
 
 2019/09/29
