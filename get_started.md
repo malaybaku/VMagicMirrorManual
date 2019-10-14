@@ -25,8 +25,8 @@
 <div class="embed-container">
   <iframe
       src="./videos/vmm_manual_load_vrm.mp4"
-      width="720"
-      height="360"
+      width="480"
+      height="270"
       frameborder="0"
       allowfullscreen="">
   </iframe>
