@@ -22,15 +22,14 @@
 
 ## 2.2. キャラクターの表示
 
-<div class="embed-container">
-  <iframe
-      src="./videos/vmm_manual_load_vrm.mp4"
-      width="480"
-      height="270"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/I-CHfCHbjx8?autoplay=1&loop=1" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 コントロールパネルの`ホーム`タブ内にある`VRMロード`ボタンを押し、PC上の`.vrm`ファイルを選択します。
 
