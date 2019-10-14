@@ -159,6 +159,16 @@ You can test how each item work by typing word, or press `Play` button at the le
 
 **NOTE:** During typing those word, please be careful NOT to insert any control key (Shift, Control, Alt, etc.). Also there are cases the word is not recognized for the too slow typing.
 
+From v0.9.1, gamepad is also supported. Turn on `Use gamepad as launcher` and press buttons in left column to start motion or face expression.
+
+[![Word to Motion by Gamepad](./images/about_settings/img01_105_word_to_motion_by_gamepad.png)](./images/about_settings/img01_105_word_to_motion_by_gamepad.png){: data-lightbox="img01_105"}
+
+The example above shows starting `fun` expression by `Y` button.
+
+**NOTE
+
+
+
 `Up` and `Down` supports re-order of items. Delete button at the right side removes selected item.
 
 You can add and custom the word and reaction for the word by 4 steps.
