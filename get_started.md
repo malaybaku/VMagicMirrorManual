@@ -26,7 +26,7 @@
   <iframe
       width="640"
       height="480"
-      src="https://drive.google.com/file/d/1q_y4EAC96aSmzDoxtVOc67WgP3WM7GC6/view?usp=sharing"
+      src="https://drive.google.com/file/d/1q_y4EAC96aSmzDoxtVOc67WgP3WM7GC6/preview"
       frameborder="0"
       allowfullscreen="">
   </iframe>
