@@ -165,8 +165,7 @@ From v0.9.1, gamepad is also supported. Turn on `Use gamepad as launcher` and pr
 
 The example above shows starting `fun` expression by `Y` button.
 
-**NOTE
-
+**NOTE:** `Use gamepad as launcher` disables gamepad based hand motion. If you prefer to use VMagicMirror for game play streaming, please turn off `Use gamepad as launcher`.
 
 
 `Up` and `Down` supports re-order of items. Delete button at the right side removes selected item.
