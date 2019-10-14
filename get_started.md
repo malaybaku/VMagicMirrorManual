@@ -22,6 +22,16 @@
 
 ## 2.2. キャラクターの表示
 
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/1q_y4EAC96aSmzDoxtVOc67WgP3WM7GC6"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 コントロールパネルの`ホーム`タブ内にある`VRMロード`ボタンを押し、PC上の`.vrm`ファイルを選択します。
 
 [![Load VRM](./images/get_started/img00_020_load_vrm.png)](./images/get_started/img00_020_load_vrm.png){: data-lightbox="img00_020"}
