@@ -117,6 +117,11 @@ This is a new feature in v0.8.6.
 
 In the setting window `Motion` tab, see `Arm` and turn off `Show Pointer Support` to hide the mark.
 
+## 4.11. VMagicMirror crashed after removing game controller
+
+VMagicMirror might crash if you unplug the game controller during VMagicMirror is active.
+
+Please restart VMagicMirror to recover. If VMagicMirror repeats to crash, then please reboot PC.
 
 ## Sections
 

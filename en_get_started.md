@@ -22,7 +22,7 @@ Instead, the control panel can be minimized during you do not need it.
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/I-CHfCHbjx8?autoplay=1&loop=1" 
+    src="https://www.youtube.com/embed/I-CHfCHbjx8?autoplay=1&loop=1&playlist=I-CHfCHbjx8" 
     frameborder="0" 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
