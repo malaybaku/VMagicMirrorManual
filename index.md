@@ -3,10 +3,10 @@
 
 [English](./en_index.html)
 
-VMagicMirror v0.9.1
+VMagicMirror v0.9.2
 
 * 作者: 獏星(ばくすたー)
-* 2019/10/14
+* 2019/10/26
 
 WindowsでVRMを表示し、特別なデバイスを使わずキャラクターを動かせるアプリケーションです。
 

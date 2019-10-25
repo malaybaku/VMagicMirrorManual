@@ -145,7 +145,7 @@ Example to show distance between screen and the character :
 
 **NOTE:** Please be aware that some VRM character uses `Unlit` type shader, to which the light setting has no effect.
 
-### 3.5. Word to Motion
+## 3.5. Word to Motion
 
 From v0.9.0 `Word to Motion` is supported. `Word to Motion` is the function to receive word input to change the character's face expression or start built-in motion.
 
@@ -200,6 +200,17 @@ When you use the expression with `Keep face after motion` option you will need r
 Reset item will be like following, which has all-zero face expression with very short duration.
 
 [![How to Reset Keep Face](./images/about_settings/img01_130_word_to_motion_reset_tips.png)](./images/about_settings/img01_130_word_to_motion_reset_tips.png){: data-lightbox="img01_130"}
+
+
+## 3.6. Reset Settings to default
+
+v0.9.2 or later version support to reset each settings, by clicking `Reset` button at the top on almost every category in setting window.
+
+Below is an example to reset light settings to default.
+
+[![Reset Setting 1](./images/about_settings/img01_140_reset_setting_before.png)](./images/about_settings/img01_140_reset_setting_before.png){: data-lightbox="img01_140"}
+
+[![Reset Setting 2](./images/about_settings/img01_150_reset_setting_before.png)](./images/about_settings/img01_150_reset_setting_after.png){: data-lightbox="img01_150"}
 
 
 ## Sections

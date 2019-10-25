@@ -3,6 +3,15 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.2
+
+2019/10/26
+
+* Add: Support to launch word to motion item from number key of keyboard
+* Change: Improve motion during using gamepad
+* Fix: Improve behavior to avoid strange motion of head and right hand just after started
+* Remove: Gamepad visible / invisible selection (because v0.9.0 or later version does not show it)
+
 ## v0.9.1
 
 2019/10/14

@@ -115,7 +115,32 @@ This motion is suited for working streaming or presentation, but you might needs
 * User : Character always look at you. You can use it when the `Mouse` option too much moves character's eyes.
 * None : Eye Look Target is always forward to the character's head. In this mode you can move the neck by face tracking, but eye will not move in most cases.
 
-### 2.3.3. View
+### 2.3.3. Word To Motion
+
+This panel is available in v0.9.2 or later. "Word to Motion" is the feature to support motion and face expression with your custom, and you can test its default expression set here.
+
+[![Word to Motion](./images/get_started/img00_105_word_to_motion.png)](./images/get_started/img00_105_word_to_motion.png){: data-lightbox="img00_105"}
+
+Confirm `Enable Word to Motion` is on, and you can launch face expression by one of following ways.
+
+* Type word "joy", "angry", "sorrow", or "fun".
+* Select `Gamepad` from `Assign device for this function` , and press A, B, X, or Y button.
+* Select `Keyboard` from `Assign device for this function` , and press 1, 2, 3, or 4 key.
+
+Please see the detail at "3.5. Word to Motion" in [3: Settings](./en_about_settings.html).
+
+**NOTE:** If you select keyboard or gamepad for `Assign device for this function`, then the character ignores the selected device as arm motion input. 
+
+For example, if you select keyboard the character stops typing motion. The following concept will help which one you should use.
+
+* Case to select `None`: Not streaming purpose, but for desktop mascot.
+    - `None` selection reflects both keyboard and gamepad input to arm motion, so the character's motion will look like most similar as yours.
+* Case to select `Gamepad`: Share your screen, with some working like writing or painting.
+    - You can keep the character looking to work with keyboard/mouse, while you can change the face expression by gamepad.
+* Case to select `Keyboard`: Stream the game play.
+    - You can keep the character looking to play game with gamepad, while you can change the face expression by keyboard.
+
+### 2.3.4. View
 
 Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 
@@ -132,7 +157,7 @@ Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 [![Typing Effect](./images/get_started/img00_125_view_typing_effect_example.png)](./images/get_started/img00_125_view_typing_effect_example.png){: data-lightbox="img00_125"}
 
 
-### 2.3.4. Camera
+### 2.3.5. Camera
 
 This "Camera" means eyesight on the character window.
 
@@ -167,7 +192,7 @@ Similar to `Drag character`, the `Free Camera Mode` may leads wrong operation to
 
 **Note:** If you follow the way above, the character might be partially cut off by going out to character window. If you lost the character and want to reset, then press `Reset Position` button, or check off `Transparent Window` to see what is happening.
 
-### 2.3.5. Motion
+### 2.3.6. Motion
 
 Check on `Presentation-like hand` to move VRM's right hand as if he / she is on a presentation.
 
@@ -179,7 +204,7 @@ When quitting the mode check off `Presentation-like hand`.
 
 **Hint:** Detail is in [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html).
 
-### 2.3.6. Screenshot
+### 2.3.7. Screenshot
 
 From VMagicMirror v0.9.0, you can take screenshot.
 
