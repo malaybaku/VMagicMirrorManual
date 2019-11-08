@@ -3,14 +3,19 @@
 
 [English](./en_index.html)
 
-VMagicMirror v0.9.2
+VMagicMirror v0.9.3
 
 * 作者: 獏星(ばくすたー)
-* 2019/10/26
+* 2019/11/09
 
 WindowsでVRMを表示し、特別なデバイスを使わずキャラクターを動かせるアプリケーションです。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhGOnf8HOKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+VMagicMirrorはオープンソースソフトウェアです。
+
+[GitHub](https://github.com/malaybaku/VMagicMirror)にてソースコードを公開しています。
+
 
 ## 1.1. できること
 

@@ -148,7 +148,7 @@ v0.9.2以降では、配信タブに"Word To Motion"メニューが入ってい�
 
 ### 2.3.4. 表示
 
-`表示`から`キーボード・マウスパッド`や`ゲームパッド`、`キャラの影`のチェックのオン・オフを切り替えることで、これらの要素を表示するか隠すかを選択できます。
+`表示`で`キーボード`や`キャラの影`のチェックのオン・オフを切り替えることで、これらの要素を表示するか隠すかを選択できます。
 
 [![Keyboard Visible](./images/get_started/img00_110_view_keyboard_visible.png)](./images/get_started/img00_110_view_keyboard_visible.png){: data-lightbox="img00_110"}
 

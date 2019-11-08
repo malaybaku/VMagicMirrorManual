@@ -15,8 +15,8 @@ Setting Window supports detailed customization options.
     - Adjust character size related parameters and motion scale
 * 3.3. `Layout`
     - Layout of the camera, keyboard, mouse pad, and gamepad
-* 3.4. `Light`
-    - Light and Bloom
+* 3.4. `Effects` (*`Light` tab for the v0.9.2 or older version)
+    - Light, shadow, bloom, and wind
 * 3.5. `Word to Motion`
     - The feature to move the character face and motion by word input
     
@@ -127,9 +127,9 @@ For the gamepad, the character leans by the stick input. If you have a gamepad, 
 In default the gamepad feature is available, but if you do not use it, and the VMagicMirror performance is not good on your machine, then check off `Enable Input Capture` on the top of `Gamepad` menu.
 
 
-## 3.4. Light
+## 3.4. Effects
 
-In `Light` tab you can set the light, shadow and bloom settings.
+`Effects` tab supports light, shadow, bloom and wind settings.
 
 Light and shadow has separated orientations, so you can set the light orientation simply for the avatar's looking, while adjust shadow orientation to show it on the back of the avatar.
 
@@ -144,6 +144,11 @@ Example to show distance between screen and the character :
 [![Default Depth Shadow](./images/about_settings/img01_080_shadow_depth_look_far.png)](./images/about_settings/img01_080_shadow_depth_look_far.png){: data-lightbox="img01_080"}
 
 **NOTE:** Please be aware that some VRM character uses `Unlit` type shader, to which the light setting has no effect.
+
+For the wind settings:
+
+* Please setup `VRMSpringBone` beforehand, to enable wind-based motion.
+* Wind feature moves all `VRMSpringBone` components, so "only hair (not skirt)" like setting is not supported.
 
 ## 3.5. Word to Motion
 

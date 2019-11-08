@@ -3,6 +3,17 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.3
+
+2019/11/09
+
+* Add: Wind effect. On/Off at `Streaming` panel, and detail setting is in setting window `Effects` tab
+* Add: Option to disable face tracking right-left reverse (Setting window, `Motion`>`Face`)
+* Add: MOD loading function
+* Change: Improve neck motion to be natural when `Eye Look Target` is `Mouse` or `User`
+* Change: In the setting window, change the tab name `Light` to `Effects`
+* Change: Config application framework changed to .NET Core 3.0. From this version distributed app only contains large `VMagicMirrorConfig.exe` in the config app folder. Also first startup of the software takes time a bit.
+
 ## v0.9.2
 
 2019/10/26
