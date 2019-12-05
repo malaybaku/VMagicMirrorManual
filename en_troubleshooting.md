@@ -123,6 +123,19 @@ VMagicMirror might crash if you unplug the game controller during VMagicMirror i
 
 Please restart VMagicMirror to recover. If VMagicMirror repeats to crash, then please reboot PC.
 
+## 4.12. When using v0.9.3, VMagicMirror control panel window does not appear
+
+This issue happens in specific PC environment, but the cause is not clear yet.
+
+If you encounter this issue, please consider to use v0.9.2 instead.
+
+## 4.13. When using v0.9.3, mouse sensitibity decreases
+
+This issue happens in specific PC environment, but the cause is not clear yet.
+
+If you encounter this issue, please consider to use v0.9.2 instead.
+
+
 ## Sections
 
 * [1: VMagicMirror](./en_index.html)
