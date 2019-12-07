@@ -3,6 +3,17 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.4
+
+2019/12/07
+
+* Add: Camera quick save / load
+* Fix: Keyboard invisible from downward issue
+* Add: Interactive blink generation with head / eye look-at / viseme, when NOT using image based blink.
+* Change: "Auto blink during face tracking" is on by default, which is in setting window `Motion` tab.
+* Change: Head motion becomes slower. This change prevents unstable head motion.
+* Change: Application framework is still .NET Core 3.0, but distribute as NOT-single binary. This change means the application style becomes more conservative than v0.9.3.
+
 ## v0.9.3
 
 2019/11/09

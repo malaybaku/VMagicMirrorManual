@@ -98,9 +98,9 @@ Check on `LipSync` and select microphone device, then lipsync is available.
 
 Check on `Track Face` and select camera to enable face tracking.
 
-If your face is not at the center for the web camera, or you are too near/far to the camera, the character indication might be unnatural. In this case open your eyes and click `Calibrate position` to adjust.
+If your face is not at the center for the web camera, or you are too near/far to the camera, the character indication might be unnatural. In this case, click `Calibrate position` to adjust.
 
-**Hint:** If your character have always closing eye, try to close your eye halfly and `Calibrate position`, then the character tends to open eyes. Similarly, when your character always look downward then look down and `Calibrate position` to adjust.
+**Hint:** When you use v0.9.3 or older version, and if your character have always closing eye, try to close your eye halfly and `Calibrate position`, then the character tends to open eyes. Similarly, when your character always look downward then look down and `Calibrate position` to adjust.
 
 **!WARN!** VMagicMirror v0.8.0 has issue that some camera leads critically decreased FPS. If it has happened, please disable face tracking or change camera.
 
@@ -182,6 +182,13 @@ After adjusting the camera check on `Transparent Window` again.
 Similar to `Drag character`, the `Free Camera Mode` may leads wrong operation to change the camera position, so please check off `Free Camera Mode` after finishing the adjust.
 
 [![After Free Camera Mode](./images/get_started/img00_140_after_free_camera_mode.png)](./images/get_started/img00_140_after_free_camera_mode.png){: data-lightbox="img00_140"}
+
+From v0.9.4, camera quick save / load is supported.
+
+Setup the view by `Free Camera Mode`, and click one of `[1], [2], or [3]` button to save the camera setting. After saving, you can load them by `Quick Load` buttons.
+
+[![Camera Quick Save](./images/get_started/img00_135_camera_quick_save.png)](./images/get_started/img00_135_camera_quick_save.png){: data-lightbox="img00_135"}
+
 
 **Hint:** Actually you can set camera position with transparent window also.
 

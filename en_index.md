@@ -3,10 +3,10 @@
 
 [Japanese](./index.html)
 
-VMagicMirror v0.9.3
+VMagicMirror v0.9.4
 
 * Creator: 獏星(ばくすたー)
-* 2019/Nov/09
+* 2019/Dec/07
 
 VMagicMirror is application for Windows desktop, to move your VRM without any special devices.
 

@@ -42,7 +42,7 @@ In default, the character becomes semitransparent during the mouse pointer is on
 
 ### 3.2.1. Face
 
-Upper part is almost the same as `Streaming` tab in control panel, and additional check `Auto blink during face tracking` is also available. Turn on this check when you have some trouble about eye open / close tracking.
+Upper part is almost the same as `Streaming` tab in control panel, and additional check `Auto blink during face tracking` is also available.
 
 The item `Default Fun Blend Shape [%]` specifies the default fun expression rate.
 
@@ -103,7 +103,9 @@ In `Layout` tab you can access to the parameters to adjust surrounding device la
 
 ### 3.3.1. Camera
 
-Same as `Camera` menu in control panel `Streaming` tab.
+Almost same as `Camera` menu in control panel `Streaming` tab.
+
+In this panel you can also adjust FOV (Field of View).
 
 ### 3.3.2. Keyboard
 
