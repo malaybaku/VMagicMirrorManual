@@ -3,6 +3,16 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.5
+
+2019/12/14
+
+* Add: Gamepad model 
+* Add: Device layout edit mode
+* Change: Typing motion and touch pad motion
+* Fix: Performance issue fix in v0.9.4
+* Fix: URL link not working issue
+
 ## v0.9.4
 
 2019/12/07

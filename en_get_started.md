@@ -199,7 +199,22 @@ Setup the view by `Free Camera Mode`, and click one of `[1], [2], or [3]` button
 
 **Note:** If you follow the way above, the character might be partially cut off by going out to character window. If you lost the character and want to reset, then press `Reset Position` button, or check off `Transparent Window` to see what is happening.
 
-### 2.3.6. Motion
+### 2.3.6. Device Layout
+
+Turn on `Free Layout` to enter device free layout mode.
+
+[![Device Free Layout](./images/get_started/img00_200_free_layout.png)](./images/get_started/img00_200_free_layout.png){: data-lightbox="img00_200"}
+
+When enter this mode `Transparent Window` is turned off.
+
+During this mode, character window shows UI on the top-left.
+
+* Control Mode: Choose which parameter to change, position, rotation, or scale.
+* Coordinate: Choose the coordinate from device local, or world. If you are not clear about this, use `Local`.
+* Gamepad Scale: Adjust gamepad model size. If gamepad is too big for your avatar, then decrease this value.
+
+
+### 2.3.7. Motion
 
 Check on `Presentation-like hand` to move VRM's right hand as if he / she is on a presentation.
 
@@ -211,7 +226,7 @@ When quitting the mode check off `Presentation-like hand`.
 
 **Hint:** Detail is in [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html).
 
-### 2.3.7. Screenshot
+### 2.3.8. Screenshot
 
 From VMagicMirror v0.9.0, you can take screenshot.
 

@@ -97,7 +97,7 @@ It might be helpful for some characters to show as if (s)he is floating, with la
 
 ## 3.3. Layout
 
-In `Layout` tab you can access to the parameters to adjust surrounding device layout like camera, keyboard, mouse pad, and gamepad.
+In `Layout` tab you can access to the parameters to adjust surrounding device layout like camera, keyboard, gamepad, etc.
 
 [![Layout Tab](./images/about_settings/img01_050_layout_tab.png)](./images/about_settings/img01_050_layout_tab.png){: data-lightbox="img01_050"}
 
@@ -107,17 +107,23 @@ Almost same as `Camera` menu in control panel `Streaming` tab.
 
 In this panel you can also adjust FOV (Field of View).
 
-### 3.3.2. Keyboard
+### 3.3.2. Device Layout
+
+Same as `Streaming` tab in control panel.
+
+Available from v0.9.5.
+
+### 3.3.3. Keyboard
 
 You can change the size and height of the keyboard and mouse pad, along to your character's scale.
 
 This panel also supports the selection of typing effect, as control panel `Streaming` tab.
 
-### 3.3.3. Gamepad
+### 3.3.4. Gamepad
 
-Similar top the keyboard, height and size is adjustable.
+For v0.9.4 or older version, adjust height and size here.
 
-For the gamepad, the character leans by the stick input. If you have a gamepad, let's check it by moving left stick with default setting!
+Gamepad has the feature that the character leans by  stick input. If you have a gamepad, let's check it by moving left stick with default setting!
 
 *In v0.9.0, gamepad is always disappeared.
 
