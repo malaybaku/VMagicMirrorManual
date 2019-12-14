@@ -15,8 +15,6 @@ When you close one of control panel or character window, then the other window w
 
 Instead, the control panel can be minimized during you do not need it.
 
-*v0.8.0 shows resolution selection dialog, but in v0.8.1 we do not see the dialog anymore. Instead, you can adjust the character window size by dragging the edge of window like many other applications.
-
 ## 2.2. Load Character
 
 <iframe 
@@ -76,13 +74,6 @@ So, please check off `(When Transparent) Drag the character` after you have move
 
 [![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)](./images/get_started/img00_090_transparent_bg_can_click.png){: data-lightbox="img00_090"}
 
-**note: ** If you use v0.8.2a or older, and both check `Transparent Window`, `(When Transparent) Drag the character` is on, then some transparent area is also the target of dragging. This behavior is not intuitional so please be careful.
-
-[![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)](./images/get_started/img00_080_transparent_bg_cannot_click.png){: data-lightbox="img00_080"}
-
-
-
-**Hint:** VMagicMirror saves character position and size, so when you quit VMagicMirror and restart, the character appears on the same place.
 
 ### 2.3.2. Face
 
@@ -102,8 +93,6 @@ If your face is not at the center for the web camera, or you are too near/far to
 
 **Hint:** When you use v0.9.3 or older version, and if your character have always closing eye, try to close your eye halfly and `Calibrate position`, then the character tends to open eyes. Similarly, when your character always look downward then look down and `Calibrate position` to adjust.
 
-**!WARN!** VMagicMirror v0.8.0 has issue that some camera leads critically decreased FPS. If it has happened, please disable face tracking or change camera.
-
 
 #### Eye Look Target
 
@@ -117,7 +106,7 @@ This motion is suited for working streaming or presentation, but you might needs
 
 ### 2.3.3. Word To Motion
 
-This panel is available in v0.9.2 or later. "Word to Motion" is the feature to support motion and face expression with your custom, and you can test its default expression set here.
+"Word to Motion" is the feature to support motion and face expression with your custom, and you can test its default expression set here.
 
 [![Word to Motion](./images/get_started/img00_105_word_to_motion.png)](./images/get_started/img00_105_word_to_motion.png){: data-lightbox="img00_105"}
 
@@ -148,7 +137,7 @@ Toggle `Keyboard`, `Gamepad` or `Avatar's Shadow` to show and hide them.
 
 [![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
 
-*In v0.9.0 gamepad is always disappeared.
+*In v0.9.0-v0.9.4, gamepad is always disappeared.
 
 **Hint:** If the shadow looks not good, please refer to [4: Troubleshooting](./en_troubleshooting.html) and see "4.9. Shadow looks not good". If this troubleshooting does not work well, please disable shadow.
 
@@ -229,8 +218,6 @@ When quitting the mode check off `Presentation-like hand`.
 **Hint:** Detail is in [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html).
 
 ### 2.3.8. Screenshot
-
-From VMagicMirror v0.9.0, you can take screenshot.
 
 [![Screenshot](./images/get_started/img00_180_screenshot.png)](./images/get_started/img00_180_screenshot.png){: data-lightbox="img00_180"}
 

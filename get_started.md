@@ -17,9 +17,6 @@
 コントロールパネルかキャラクター表示ウィンドウの一方を閉じると、もう片方の画面も閉じてVMagicMirrorが終了します。「キャラクターは表示したいがコントロールパネルは隠したい」という場合、コントロールパネルを最小化します。
 
 
-※v0.8.0では解像度の選択ダイアログを表示していましたが、v0.8.1では廃止しています。その代わりに、キャラクターウィンドウを直接引き延ばしてサイズを調整できます。
-
-
 ## 2.2. キャラクターの表示
 
 <iframe 
@@ -83,12 +80,6 @@ VRMをロードしたら、各機能を試してみましょう。
 
 [![Transparent BG can click](./images/get_started/img00_090_transparent_bg_can_click.png)](./images/get_started/img00_090_transparent_bg_can_click.png){: data-lightbox="img00_090"}
 
-**note:** v0.8.2aまたはそれより古いバージョンをお使いの場合で、`背景を透過`のチェックがオンで、かつ`(透過中)キャラ付近を掴んでドラッグ`のチェックがオンのとき、一見すると何もないエリアも掴むことができます。この挙動はやや直感的ではないため、注意してください。
-
-[![Transparent BG cannot click](./images/get_started/img00_080_transparent_bg_cannot_click.png)](./images/get_started/img00_080_transparent_bg_cannot_click.png){: data-lightbox="img00_080"}
-
-
-**Hint:** VMagicMirrorではキャラクターの位置を保存するため、いったん終了して再起動したときは同じ位置にキャラクターが表示されます。
 
 ### 2.3.2. 顔・表情
 
@@ -110,8 +101,6 @@ VRMをロードしたら、各機能を試してみましょう。
 
 **Hint:** v0.9.3かより古いバージョンでキャラクターの目が閉じがちになってしまう場合、目を半閉じにして`姿勢・表情を補正`ボタンをクリックすると、目が開きやすくなります。似たように、キャラクターがうつむきがちになる場合は、少し下を向いて`姿勢・表情を補正`ボタンをクリックすると、キャラが上を向くようになります。
 
-**!注意!** VMagicMirror v0.8.0の時点では、一部のカメラを使うと極端に動作が遅くなる不具合を確認しています。そうなってしまった場合、顔トラッキングを無効化してください。
-
 #### 視線の動き
 
 VMagicMirrorの基本設定では、キャラクターがマウスポインタの方向を向きます。
@@ -125,7 +114,7 @@ VMagicMirrorの基本設定では、キャラクターがマウスポインタ�
 
 ### 2.3.3. Word To Motion
 
-v0.9.2以降では、配信タブに"Word To Motion"メニューが入っています。この機能ではキャラクターの表情などをコントロールできます。詳しくは[3: 詳細設定](./about_settings.html)の「3.5. Word to Motion」を参照下さい。
+この機能ではキャラクターの表情などをコントロールできます。詳しくは[3: 詳細設定](./about_settings.html)の「3.5. Word to Motion」を参照下さい。
 
 [![Word to Motion](./images/get_started/img00_105_word_to_motion.png)](./images/get_started/img00_105_word_to_motion.png){: data-lightbox="img00_105"}
 
@@ -153,7 +142,7 @@ v0.9.2以降では、配信タブに"Word To Motion"メニューが入ってい�
 
 [![Keyboard Hidden](./images/get_started/img00_120_view_keyboard_hidden.png)](./images/get_started/img00_120_view_keyboard_hidden.png){: data-lightbox="img00_120"}
 
-※v0.9.0ではゲームパッドはつねに非表示となります。
+※v0.9.0～v0.9.4ではゲームパッドはつねに非表示となります。
 
 **Hint:** 影の見栄えがあまり良くない場合、[4: トラブルシューティング](./troubleshooting.html)の"4.9. 影が綺麗に映らない"をご確認下さい。どうしても見栄えが改善しない場合、影の表示をオフにして下さい。
 
@@ -230,8 +219,6 @@ v0.9.4からは視点のクイックセーブ/ロード機能が追加されて�
 **Hint:** 詳しくは[Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)もあわせてご覧下さい。
 
 ### 2.3.8. スクリーンショット
-
-VMagicMirror v0.9.0以降ではスクリーンショットが撮影できます。
 
 [![Screenshot](./images/get_started/img00_180_screenshot.png)](./images/get_started/img00_180_screenshot.png){: data-lightbox="img00_180"}
 
