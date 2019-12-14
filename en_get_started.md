@@ -190,6 +190,8 @@ Setup the view by `Free Camera Mode`, and click one of `[1], [2], or [3]` button
 
 ### 2.3.6. Device Layout
 
+This feature is available from v0.9.5.
+
 Turn on `Free Layout` to enter device free layout mode.
 
 [![Device Free Layout](./images/get_started/img00_200_free_layout.png)](./images/get_started/img00_200_free_layout.png){: data-lightbox="img00_200"}
