@@ -10,6 +10,7 @@
 * Add: Gamepad model 
 * Add: Device layout edit mode
 * Change: Typing motion and touch pad motion
+* Change: OK/Cancel Dialog is changed to Material Design based style
 * Fix: Performance issue fix in v0.9.4
 * Fix: URL link not working issue
 
