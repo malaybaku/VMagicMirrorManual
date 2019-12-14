@@ -213,6 +213,8 @@ During this mode, character window shows UI on the top-left.
 * Coordinate: Choose the coordinate from device local, or world. If you are not clear about this, use `Local`.
 * Gamepad Scale: Adjust gamepad model size. If gamepad is too big for your avatar, then decrease this value.
 
+`Reset` can recover the standard layout.
+
 
 ### 2.3.7. Motion
 
