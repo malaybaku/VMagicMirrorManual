@@ -70,6 +70,7 @@ If your tool for the presentation is Microsoft PowerPoint, then right-click over
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * Tips B: VMagicMirror for Presentation (this page)
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
+* [Tips D: Change Device Textures](./en_tips_change_textures.html)
 * [License](./en_about_license.html)
 * [Change Log](./en_changelog.html)
 * [FAQ](./en_frequently_asked_questions.html)

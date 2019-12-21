@@ -253,6 +253,7 @@ v0.9.4からは視点のクイックセーブ/ロード機能が追加されて�
 * [Tips A: デスクトップマスコット化のための設定](./tips_desktop_mascot.html)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
 * [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
+* [Tips D: キーボードやタッチパッドの見た目を変更する](./tips_change_textures.html)
 * [License](./about_license.html)
 * [Change Log](./changelog.html)
 * [FAQ](./en_frequently_asked_questions.html)

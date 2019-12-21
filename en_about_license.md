@@ -53,6 +53,7 @@ SOFTWARE.
 * [Tips A: Desktop Mascot Setup](./en_tips_desktop_mascot.html)
 * [Tips B: VMagicMirror for Presentation](./en_tips_presentation.html)
 * [Tips C: Load Previous Version Setting](./en_tips_load_prev_setting.html)
+* [Tips D: Change Device Textures](./en_tips_change_textures.html)
 * License (this page)
 * [Change Log](./en_changelog.html)
 * [FAQ](./en_frequently_asked_questions.html)

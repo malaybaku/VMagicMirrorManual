@@ -3,7 +3,7 @@
 
 [English](./en_tips_desktop_mascot.html)
 
-VMagicMirrorはデスクトップマスコット化としても使えます。
+VMagicMirrorはデスクトップマスコットとしても使えます。
 
 本セットアップによって、Windowsの起動後に、所定の位置へキャラクターを表示できます。
 
@@ -22,11 +22,7 @@ VMagicMirrorはデスクトップマスコット化としても使えます。
 
 コントロールパネルの`ホーム`タブ左下にある、`Windowsの起動後にスタート`のチェックをオンにします。
 
-また、もしVMagicMirror v0.8.0以前のバージョンでショートカットをスタートアップフォルダに配置していた場合、削除します。スタートアップフォルダは以下のようなフォルダですが、ドライブ名やユーザー名の部分は実際の環境にあわせて読み替えてください。
-
-`C:\Users\(ユーザー名)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
-
-以上のセットアップ後にWindowsを再起動してみて、VMagicMirrorが表示されれば成功です。
+その後、Windowsを再起動してみて、VMagicMirrorが表示されれば成功です。
 
 もし将来的に異なるバージョンのVMagicMirrorで置き換える場合や、自動で立ち上がる設定を無効にしたい場合、`Windowsの起動後にスタート`のチェックをオフにします。
 
@@ -40,6 +36,7 @@ VMagicMirrorはデスクトップマスコット化としても使えます。
 * Tips A: デスクトップマスコット化のための設定 (このページ)
 * [Tips B: プレゼンテーションでVMagicMirrorを使う](./tips_presentation.html)
 * [Tips C: 前バージョン(v0.8.0以降)の設定を引き継ぐ](./tips_load_prev_setting.html)
+* [Tips D: キーボードやタッチパッドの見た目を変更する](./tips_change_textures.html)
 * [License](./about_license.html)
 * [Change Log](./changelog.html)
 * [FAQ](./en_frequently_asked_questions.html)
