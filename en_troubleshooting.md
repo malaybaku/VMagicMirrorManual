@@ -36,7 +36,7 @@ If you do not use game pad, then:
 * Check off `Layout` > `GamePad` > `Enable Input Capture`.
 
 
-### 4.4. Eyes do not mouse pointer 
+### 4.4. Eyes do not move by mouse pointer 
 
 It is by specification, for some game software (please see detail in *note*).
 
