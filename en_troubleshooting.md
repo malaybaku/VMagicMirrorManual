@@ -95,7 +95,7 @@ Known issue in v0.8.1 and fixed in newer versions.
 
 Security software can be the cause of this issue, as VMagicMirror operates interprocess communication between character window and control panel.
 
-Please try if it works when the security software is disabled.
+Please try to disable the security software in this case.
 
 As far as the creator knows, COMODO Internet Security leads this issue, but it is just an example.
 
