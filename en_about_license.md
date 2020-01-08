@@ -24,7 +24,7 @@ It is a users' responsibility to comply the VRM model license.
 
 MIT License
 
-Copyright (c) 2019 獏星(ばくすたー)@baku_dreameater
+Copyright (c) 2019-2020 獏星(ばくすたー)@baku_dreameater
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
