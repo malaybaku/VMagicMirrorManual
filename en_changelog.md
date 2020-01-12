@@ -3,6 +3,16 @@
 
 [Japanese](./changelog.html)
 
+## v0.9.6
+
+2020/01/13
+
+* Add: Word to Motion supports all Blend Shape clips assigned to character, including non-VRM standard blendshapes.
+* Add: MIDI controller support for word to motion, and basic motion.
+* Change: When face tracking is running, forward and backward motion is disabled by default. You can turn on it on setting window `Motion` tab, `Face` menu.
+* Change: Device free layout now shows move / rotate / scale gizmo only for the visible devices.
+* Change: This updates has some internal performance improvements.
+
 ## v0.9.5
 
 2019/12/14

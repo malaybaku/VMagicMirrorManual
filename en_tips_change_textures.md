@@ -15,8 +15,12 @@ Put the images to replace in this folder. File name must be following.
 
 * For the keyboard key image: `key.png`
 * For the touch pad: `pad.png`
+* For the gamepad body : `gamepad_body.png`
+* For the gamepad buttons: `gamepad_button.png`
 
-You can put both image, or only one image.
+Default image is applied if above images does not exist.
+
+For the gamepad, please use single-color-only image to change gamepad color. 
 
 After the setup, start `VMagicMirror.exe` to load the specified image.
 

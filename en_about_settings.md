@@ -42,7 +42,11 @@ In default, the character becomes semitransparent during the mouse pointer is on
 
 ### 3.2.1. Face
 
-Upper part is almost the same as `Streaming` tab in control panel, and additional check `Auto blink during face tracking` is also available.
+Upper part is almost the same as `Streaming` tab in control panel.
+
+Additional check `Auto blink during face tracking` is on by default, and when it is turned off, you can control eye open and close by image processing.
+
+From v0.9.6 `Enable forward / backward motion` check is available. Enabling this check maybe cause your avatar motion unstable, so please test if you plan streaming use.
 
 The item `Default Fun Blend Shape [%]` specifies the default fun expression rate.
 
@@ -113,11 +117,17 @@ Same as `Streaming` tab in control panel.
 
 Available from v0.9.5.
 
-### 3.3.3. Keyboard
+### 3.3.3. Keyboard / MIDI
 
 You can change the size and height of the keyboard and mouse pad, along to your character's scale.
 
 This panel also supports the selection of typing effect, as control panel `Streaming` tab.
+
+From v0.9.6 MIDI controller setting is also available here.
+
+VMagicMirror uses MIDI input to change avatar face expression.
+
+If you usually use DAW software or other MIDI-controller-required software, then turn off `Use MIDI Cotnroler for VMagicMirror`, to ensure VMagicMirror does not occupy MIDI devices.
 
 ### 3.3.4. Gamepad
 
@@ -205,6 +215,18 @@ Custom window interface is as following.
     * If `Keep face after motion` is on, then character face does not change after the duration.
 * 4: BlendShapes. 
     * **NOTE:** In the most cases you should set only one blend shape to non-zero for the appearance.
+
+From v0.9.6, you can also use MIDI controller for input device.
+
+There are 3 steps to use MIDI controller to launch expressions.
+
+https://twitter.com/baku_dreameater/status/1211990346525077504
+
+* Select `Device Assign` to `MIDI Controller` and click edit button at the right of `Keys`.
+* You will see `MIDI note assign` window, so press MIDI keys to use, to input MIDI note number for each items. `Note to Change` column is updated by your MIDI input.
+* After setting click `OK` to complete setting.
+
+After closing the window, test to press the same notes to check the mapping.
 
 **Hint:**
 

@@ -108,25 +108,28 @@ This motion is suited for working streaming or presentation, but you might needs
 
 "Word to Motion" is the feature to support motion and face expression with your custom, and you can test its default expression set here.
 
-[![Word to Motion](./images/get_started/img00_105_word_to_motion.png)](./images/get_started/img00_105_word_to_motion.png){: data-lightbox="img00_105"}
-
-Confirm `Enable Word to Motion` is on, and you can launch face expression by one of following ways.
-
-* Type word "joy", "angry", "sorrow", or "fun".
-* Select `Gamepad` from `Assign device for this function` , and press A, B, X, or Y button.
-* Select `Keyboard` from `Assign device for this function` , and press 1, 2, 3, or 4 key.
+Test by typing "joy" with default setting.
 
 Please see the detail at "3.5. Word to Motion" in [3: Settings](./en_about_settings.html).
+
+[![Word to Motion](./images/get_started/img00_105_word_to_motion.png)](./images/get_started/img00_105_word_to_motion.png){: data-lightbox="img00_105"}
+
+You can change `Device Assign` and test what it works.
+
+* Select `Keyboard (word)` and type word "joy", "angry", "sorrow", or "fun".
+* Select `Gamepad`, and press A, B, X, or Y button.
+* Select `Keyboard (num 0-8)`, and press 1, 2, 3, or 4 key.
+
 
 **NOTE:** If you select keyboard or gamepad for `Assign device for this function`, then the character ignores the selected device as arm motion input. 
 
 For example, if you select keyboard the character stops typing motion. The following concept will help which one you should use.
 
-* Case to select `None`: Not streaming purpose, but for desktop mascot.
+* `None`, `keyboard (word)`: Not streaming purpose, but for desktop mascot.
     - `None` selection reflects both keyboard and gamepad input to arm motion, so the character's motion will look like most similar as yours.
-* Case to select `Gamepad`: Share your screen, with some working like writing or painting.
+* `Gamepad`, `MIDI Controller`: Share your screen, with some working like writing or painting.
     - You can keep the character looking to work with keyboard/mouse, while you can change the face expression by gamepad.
-* Case to select `Keyboard`: Stream the game play.
+* `Keyboard (num 0-8)`: Stream the game play.
     - You can keep the character looking to play game with gamepad, while you can change the face expression by keyboard.
 
 ### 2.3.4. View
