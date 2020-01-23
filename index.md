@@ -1,4 +1,6 @@
 
+**[New Web Page is Available!!](https://malaybaku.github.io/VMagicMirror)**
+
 # 1. VMagicMirrorについて
 
 [English](./en_index.html)
