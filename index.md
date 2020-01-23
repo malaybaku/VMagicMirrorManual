@@ -1,5 +1,9 @@
 
-**[New Web Page is Available!!](https://malaybaku.github.io/VMagicMirror)**
+**NOTE:** [新しいウェブページ](https://malaybaku.github.io/VMagicMirror) が公開されました！
+
+　
+
+　
 
 # 1. VMagicMirrorについて
 

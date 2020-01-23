@@ -1,5 +1,9 @@
 
-**[New Web Page is Available!!](https://malaybaku.github.io/VMagicMirror)**
+**NOTE:** [New Web Page](https://malaybaku.github.io/VMagicMirror) is Available!!
+
+　
+
+　
 
 # 1. VMagicMirror
 
